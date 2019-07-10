@@ -2,8 +2,10 @@
   "totalclientes": [
     { "usuarioID": 1, "total": 60, "data": 20190101, "tipo": "posVenda", "equipe": "Amanda"},
     { "usuarioID": 1, "total": 50, "data": 20190201, "tipo": "posVenda", "equipe": "Amanda"},
-    { "usuarioID": 2, "total": 30, "data": 20190201, "tipo": "posVenda", "equipe": "Amanda"},
-    { "usuarioID": 2, "total": 10, "data": 20190201, "tipo": "posVenda", "equipe": "Amanda"}
+    { "usuarioID": 2, "total": 30, "data": 20190101, "tipo": "posVenda", "equipe": "Amanda"},
+    { "usuarioID": 2, "total": 10, "data": 20190201, "tipo": "posVenda", "equipe": "Amanda"},
+    { "usuarioID": 3, "total": 30, "data": 20190101, "tipo": "posVenda", "equipe": "Amanda"},
+    { "usuarioID": 3, "total": 10, "data": 20190201, "tipo": "posVenda", "equipe": "Amanda"}
   ],
   "profile": {
     "name": "Api-Vonex"
