@@ -620,20 +620,7 @@
       "tipo": "comercial",
       "equipe": 4
     },
-    {
-      "usuarioID": 15,
-      "total": 20,
-      "data": 201901,
-      "tipo": "comercial",
-      "equipe": 4
-    },
-    {
-      "usuarioID": 15,
-      "total": 40,
-      "data": 201902,
-      "tipo": "comercial",
-      "equipe": 4
-    }
+
   ],
   "classificacao": [
     {
