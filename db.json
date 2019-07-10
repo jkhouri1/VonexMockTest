@@ -577,50 +577,7 @@
       "data": 201902,
       "tipo": "comercial",
       "equipe": 3
-    },
-    {
-      "usuarioID": 12,
-      "total": 30,
-      "data": 201901,
-      "tipo": "comercial",
-      "equipe": 3
-    },
-    {
-      "usuarioID": 12,
-      "total": 20,
-      "data": 201902,
-      "tipo": "comercial",
-      "equipe": 3
-    },
-    {
-      "usuarioID": 13,
-      "total": 20,
-      "data": 201901,
-      "tipo": "comercial",
-      "equipe": 4
-    },
-    {
-      "usuarioID": 13,
-      "total": 30,
-      "data": 201902,
-      "tipo": "comercial",
-      "equipe": 4
-    },
-    {
-      "usuarioID": 14,
-      "total": 20,
-      "data": 201901,
-      "tipo": "comercial",
-      "equipe": 4
-    },
-    {
-      "usuarioID": 14,
-      "total": 10,
-      "data": 201902,
-      "tipo": "comercial",
-      "equipe": 4
-    },
-
+    }
   ],
   "classificacao": [
     {
