@@ -1,14 +1,11 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "totalclientes": [
+    { "usuarioID": 1, "total": 60, "data": 20190101, "tipo": "posVenda", "equipe": "Amanda"},
+    { "usuarioID": 1, "total": 50, "data": 20190201, "tipo": "posVenda", "equipe": "Amanda"},
+    { "usuarioID": 2, "total": 30, "data": 20190201, "tipo": "posVenda", "equipe": "Amanda"},
+    { "usuarioID": 2, "total": 10, "data": 20190201, "tipo": "posVenda", "equipe": "Amanda"}
   ],
   "profile": {
-    "name": "typicode"
+    "name": "Api-Vonex"
   }
 }
