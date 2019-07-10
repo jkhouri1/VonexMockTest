@@ -1,0 +1,13 @@
+[
+    {
+        "cliente": "",
+        "conta": "",
+        "modalidade": "",
+        "dataAlteracao": "",
+        "totalTarifaAnterior": 0,
+        "totalTarifaAtual": 0,
+        "faturamentoAnterior": 0,
+        "faturamentoAtual": 0,
+        "variacaoFaturamentos": 0
+    }
+]
