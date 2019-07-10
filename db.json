@@ -1,6 +1,9 @@
-[
-    {
-        "nome": "",
-        "total": 0
-    }
-]
+{
+    "totalclientes": [
+      { "usuarioPosVendaID": 1, "total": 10, "data":20190301 },
+      { "usuarioPosVendaID": 2, "total": 20, "data":20190301 },
+      { "usuarioPosVendaID": 3, "total": 30, "data":20190301 },
+      { "usuarioPosVendaID": 4, "total": 40, "data":20190301 }
+  
+    ],
+}
