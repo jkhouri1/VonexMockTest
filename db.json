@@ -29,9 +29,7 @@
     { "usuarioID": 14, "total": 46, "data": 201901, "tipo": "comercial", "equipe": 4},
     { "usuarioID": 14, "total": 23, "data": 201902, "tipo": "comercial", "equipe": 4},
     { "usuarioID": 15, "total": 43, "data": 201901, "tipo": "comercial", "equipe": 4},
-    { "usuarioID": 15, "total": 87, "data": 201902, "tipo": "comercial", "equipe": 4},
-    { "usuarioID": 16, "total": 34, "data": 201901, "tipo": "comercial", "equipe": 4},
-    { "usuarioID": 16, "total": 15, "data": 201902, "tipo": "comercial", "equipe": 4}
+    { "usuarioID": 15, "total": 87, "data": 201902, "tipo": "comercial", "equipe": 4}
   ],
   "profile": {
     "name": "Api-Vonex"
