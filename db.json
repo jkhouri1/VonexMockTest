@@ -1405,10 +1405,1418 @@
       "equipe": 4
     }
   ],
-  "segmento": [
-    { "usuarioID": 1, "segmento": [ { "nome": "Outros", "total": 50 }, { "nome": "Operadora", "total": 50 }, { "nome": "Serviços", "total": 50 }, { "nome": "Saúde", "total": 50 }, { "nome": "Inst. Ensino", "total": 50 }, { "nome": "Varejo", "total": 50 }, { "nome": "Inst. Financeira", "total": 50 }, { "nome": "CallCenter", "total": 50 }, { "nome": "Industria", "total": 50 } ], "data": 201901, "tipo": "posVenda", "equipe": 1 },
-    { "usuarioID": 1, "segmento": [ { "nome": "Outros", "total": 50 }, { "nome": "Operadora", "total": 50 }, { "nome": "Serviços", "total": 50 }, { "nome": "Saúde", "total": 50 }, { "nome": "Inst. Ensino", "total": 50 }, { "nome": "Varejo", "total": 50 }, { "nome": "Inst. Financeira", "total": 50 }, { "nome": "CallCenter", "total": 50 }, { "nome": "Industria", "total": 50 } ], "data": 201902, "tipo": "posVenda", "equipe": 1 }
-  ],
+{
+    "segmento": [
+        {
+            "usuarioID": 1,
+            "segmento": [
+                {
+                    "nome": "Outros",
+                    "total": 2
+                },
+                {
+                    "nome": "Operadora",
+                    "total": 64
+                },
+                {
+                    "nome": "Serviços",
+                    "total": 76
+                },
+                {
+                    "nome": "Saúde",
+                    "total": 90
+                },
+                {
+                    "nome": "Inst. Ensino",
+                    "total": 65
+                },
+                {
+                    "nome": "Varejo",
+                    "total": 73
+                },
+                {
+                    "nome": "Inst. Financeira",
+                    "total": 39
+                },
+                {
+                    "nome": "CallCenter",
+                    "total": 8
+                },
+                {
+                    "nome": "Industria",
+                    "total": 62
+                }
+            ],
+            "data": 201901,
+            "tipo": "posVenda",
+            "equipe": 1
+        },
+        {
+            "usuarioID": 1,
+            "segmento": [
+                {
+                    "nome": "Outros",
+                    "total": 95
+                },
+                {
+                    "nome": "Operadora",
+                    "total": 8
+                },
+                {
+                    "nome": "Serviços",
+                    "total": 5
+                },
+                {
+                    "nome": "Saúde",
+                    "total": 16
+                },
+                {
+                    "nome": "Inst. Ensino",
+                    "total": 39
+                },
+                {
+                    "nome": "Varejo",
+                    "total": 14
+                },
+                {
+                    "nome": "Inst. Financeira",
+                    "total": 46
+                },
+                {
+                    "nome": "CallCenter",
+                    "total": 92
+                },
+                {
+                    "nome": "Industria",
+                    "total": 53
+                }
+            ],
+            "data": 201902,
+            "tipo": "posVenda",
+            "equipe": 1
+        },
+        {
+            "usuarioID": 2,
+            "segmento": [
+                {
+                    "nome": "Outros",
+                    "total": 18
+                },
+                {
+                    "nome": "Operadora",
+                    "total": 26
+                },
+                {
+                    "nome": "Serviços",
+                    "total": 23
+                },
+                {
+                    "nome": "Saúde",
+                    "total": 23
+                },
+                {
+                    "nome": "Inst. Ensino",
+                    "total": 90
+                },
+                {
+                    "nome": "Varejo",
+                    "total": 6
+                },
+                {
+                    "nome": "Inst. Financeira",
+                    "total": 70
+                },
+                {
+                    "nome": "CallCenter",
+                    "total": 2
+                },
+                {
+                    "nome": "Industria",
+                    "total": 64
+                }
+            ],
+            "data": 201901,
+            "tipo": "posVenda",
+            "equipe": 1
+        },
+        {
+            "usuarioID": 2,
+            "segmento": [
+                {
+                    "nome": "Outros",
+                    "total": 91
+                },
+                {
+                    "nome": "Operadora",
+                    "total": 33
+                },
+                {
+                    "nome": "Serviços",
+                    "total": 80
+                },
+                {
+                    "nome": "Saúde",
+                    "total": 42
+                },
+                {
+                    "nome": "Inst. Ensino",
+                    "total": 80
+                },
+                {
+                    "nome": "Varejo",
+                    "total": 54
+                },
+                {
+                    "nome": "Inst. Financeira",
+                    "total": 9
+                },
+                {
+                    "nome": "CallCenter",
+                    "total": 32
+                },
+                {
+                    "nome": "Industria",
+                    "total": 82
+                }
+            ],
+            "data": 201902,
+            "tipo": "posVenda",
+            "equipe": 1
+        },
+        {
+            "usuarioID": 3,
+            "segmento": [
+                {
+                    "nome": "Outros",
+                    "total": 6
+                },
+                {
+                    "nome": "Operadora",
+                    "total": 11
+                },
+                {
+                    "nome": "Serviços",
+                    "total": 74
+                },
+                {
+                    "nome": "Saúde",
+                    "total": 77
+                },
+                {
+                    "nome": "Inst. Ensino",
+                    "total": 89
+                },
+                {
+                    "nome": "Varejo",
+                    "total": 17
+                },
+                {
+                    "nome": "Inst. Financeira",
+                    "total": 94
+                },
+                {
+                    "nome": "CallCenter",
+                    "total": 26
+                },
+                {
+                    "nome": "Industria",
+                    "total": 96
+                }
+            ],
+            "data": 201901,
+            "tipo": "posVenda",
+            "equipe": 1
+        },
+        {
+            "usuarioID": 3,
+            "segmento": [
+                {
+                    "nome": "Outros",
+                    "total": 34
+                },
+                {
+                    "nome": "Operadora",
+                    "total": 75
+                },
+                {
+                    "nome": "Serviços",
+                    "total": 14
+                },
+                {
+                    "nome": "Saúde",
+                    "total": 95
+                },
+                {
+                    "nome": "Inst. Ensino",
+                    "total": 12
+                },
+                {
+                    "nome": "Varejo",
+                    "total": 18
+                },
+                {
+                    "nome": "Inst. Financeira",
+                    "total": 3
+                },
+                {
+                    "nome": "CallCenter",
+                    "total": 31
+                },
+                {
+                    "nome": "Industria",
+                    "total": 80
+                }
+            ],
+            "data": 201902,
+            "tipo": "posVenda",
+            "equipe": 1
+        },
+        {
+            "usuarioID": 4,
+            "segmento": [
+                {
+                    "nome": "Outros",
+                    "total": 57
+                },
+                {
+                    "nome": "Operadora",
+                    "total": 31
+                },
+                {
+                    "nome": "Serviços",
+                    "total": 20
+                },
+                {
+                    "nome": "Saúde",
+                    "total": 32
+                },
+                {
+                    "nome": "Inst. Ensino",
+                    "total": 71
+                },
+                {
+                    "nome": "Varejo",
+                    "total": 93
+                },
+                {
+                    "nome": "Inst. Financeira",
+                    "total": 82
+                },
+                {
+                    "nome": "CallCenter",
+                    "total": 37
+                },
+                {
+                    "nome": "Industria",
+                    "total": 65
+                }
+            ],
+            "data": 201901,
+            "tipo": "posVenda",
+            "equipe": 1
+        },
+        {
+            "usuarioID": 4,
+            "segmento": [
+                {
+                    "nome": "Outros",
+                    "total": 54
+                },
+                {
+                    "nome": "Operadora",
+                    "total": 4
+                },
+                {
+                    "nome": "Serviços",
+                    "total": 55
+                },
+                {
+                    "nome": "Saúde",
+                    "total": 20
+                },
+                {
+                    "nome": "Inst. Ensino",
+                    "total": 65
+                },
+                {
+                    "nome": "Varejo",
+                    "total": 31
+                },
+                {
+                    "nome": "Inst. Financeira",
+                    "total": 28
+                },
+                {
+                    "nome": "CallCenter",
+                    "total": 17
+                },
+                {
+                    "nome": "Industria",
+                    "total": 96
+                }
+            ],
+            "data": 201902,
+            "tipo": "posVenda",
+            "equipe": 1
+        },
+        {
+            "usuarioID": 5,
+            "segmento": [
+                {
+                    "nome": "Outros",
+                    "total": 76
+                },
+                {
+                    "nome": "Operadora",
+                    "total": 87
+                },
+                {
+                    "nome": "Serviços",
+                    "total": 1
+                },
+                {
+                    "nome": "Saúde",
+                    "total": 36
+                },
+                {
+                    "nome": "Inst. Ensino",
+                    "total": 2
+                },
+                {
+                    "nome": "Varejo",
+                    "total": 42
+                },
+                {
+                    "nome": "Inst. Financeira",
+                    "total": 37
+                },
+                {
+                    "nome": "CallCenter",
+                    "total": 33
+                },
+                {
+                    "nome": "Industria",
+                    "total": 38
+                }
+            ],
+            "data": 201901,
+            "tipo": "posVenda",
+            "equipe": 2
+        },
+        {
+            "usuarioID": 5,
+            "segmento": [
+                {
+                    "nome": "Outros",
+                    "total": 93
+                },
+                {
+                    "nome": "Operadora",
+                    "total": 79
+                },
+                {
+                    "nome": "Serviços",
+                    "total": 19
+                },
+                {
+                    "nome": "Saúde",
+                    "total": 35
+                },
+                {
+                    "nome": "Inst. Ensino",
+                    "total": 75
+                },
+                {
+                    "nome": "Varejo",
+                    "total": 48
+                },
+                {
+                    "nome": "Inst. Financeira",
+                    "total": 21
+                },
+                {
+                    "nome": "CallCenter",
+                    "total": 83
+                },
+                {
+                    "nome": "Industria",
+                    "total": 5
+                }
+            ],
+            "data": 201902,
+            "tipo": "posVenda",
+            "equipe": 2
+        },
+        {
+            "usuarioID": 6,
+            "segmento": [
+                {
+                    "nome": "Outros",
+                    "total": 30
+                },
+                {
+                    "nome": "Operadora",
+                    "total": 33
+                },
+                {
+                    "nome": "Serviços",
+                    "total": 47
+                },
+                {
+                    "nome": "Saúde",
+                    "total": 47
+                },
+                {
+                    "nome": "Inst. Ensino",
+                    "total": 55
+                },
+                {
+                    "nome": "Varejo",
+                    "total": 21
+                },
+                {
+                    "nome": "Inst. Financeira",
+                    "total": 72
+                },
+                {
+                    "nome": "CallCenter",
+                    "total": 48
+                },
+                {
+                    "nome": "Industria",
+                    "total": 40
+                }
+            ],
+            "data": 201901,
+            "tipo": "posVenda",
+            "equipe": 2
+        },
+        {
+            "usuarioID": 6,
+            "segmento": [
+                {
+                    "nome": "Outros",
+                    "total": 0
+                },
+                {
+                    "nome": "Operadora",
+                    "total": 40
+                },
+                {
+                    "nome": "Serviços",
+                    "total": 49
+                },
+                {
+                    "nome": "Saúde",
+                    "total": 29
+                },
+                {
+                    "nome": "Inst. Ensino",
+                    "total": 13
+                },
+                {
+                    "nome": "Varejo",
+                    "total": 42
+                },
+                {
+                    "nome": "Inst. Financeira",
+                    "total": 81
+                },
+                {
+                    "nome": "CallCenter",
+                    "total": 74
+                },
+                {
+                    "nome": "Industria",
+                    "total": 77
+                }
+            ],
+            "data": 201902,
+            "tipo": "posVenda",
+            "equipe": 2
+        },
+        {
+            "usuarioID": 7,
+            "segmento": [
+                {
+                    "nome": "Outros",
+                    "total": 23
+                },
+                {
+                    "nome": "Operadora",
+                    "total": 27
+                },
+                {
+                    "nome": "Serviços",
+                    "total": 80
+                },
+                {
+                    "nome": "Saúde",
+                    "total": 7
+                },
+                {
+                    "nome": "Inst. Ensino",
+                    "total": 60
+                },
+                {
+                    "nome": "Varejo",
+                    "total": 25
+                },
+                {
+                    "nome": "Inst. Financeira",
+                    "total": 1
+                },
+                {
+                    "nome": "CallCenter",
+                    "total": 85
+                },
+                {
+                    "nome": "Industria",
+                    "total": 24
+                }
+            ],
+            "data": 201901,
+            "tipo": "posVenda",
+            "equipe": 2
+        },
+        {
+            "usuarioID": 7,
+            "segmento": [
+                {
+                    "nome": "Outros",
+                    "total": 62
+                },
+                {
+                    "nome": "Operadora",
+                    "total": 48
+                },
+                {
+                    "nome": "Serviços",
+                    "total": 57
+                },
+                {
+                    "nome": "Saúde",
+                    "total": 41
+                },
+                {
+                    "nome": "Inst. Ensino",
+                    "total": 7
+                },
+                {
+                    "nome": "Varejo",
+                    "total": 79
+                },
+                {
+                    "nome": "Inst. Financeira",
+                    "total": 86
+                },
+                {
+                    "nome": "CallCenter",
+                    "total": 46
+                },
+                {
+                    "nome": "Industria",
+                    "total": 82
+                }
+            ],
+            "data": 201902,
+            "tipo": "posVenda",
+            "equipe": 2
+        },
+        {
+            "usuarioID": 8,
+            "segmento": [
+                {
+                    "nome": "Outros",
+                    "total": 32
+                },
+                {
+                    "nome": "Operadora",
+                    "total": 40
+                },
+                {
+                    "nome": "Serviços",
+                    "total": 72
+                },
+                {
+                    "nome": "Saúde",
+                    "total": 80
+                },
+                {
+                    "nome": "Inst. Ensino",
+                    "total": 9
+                },
+                {
+                    "nome": "Varejo",
+                    "total": 75
+                },
+                {
+                    "nome": "Inst. Financeira",
+                    "total": 80
+                },
+                {
+                    "nome": "CallCenter",
+                    "total": 16
+                },
+                {
+                    "nome": "Industria",
+                    "total": 41
+                }
+            ],
+            "data": 201901,
+            "tipo": "posVenda",
+            "equipe": 2
+        },
+        {
+            "usuarioID": 8,
+            "segmento": [
+                {
+                    "nome": "Outros",
+                    "total": 71
+                },
+                {
+                    "nome": "Operadora",
+                    "total": 28
+                },
+                {
+                    "nome": "Serviços",
+                    "total": 7
+                },
+                {
+                    "nome": "Saúde",
+                    "total": 81
+                },
+                {
+                    "nome": "Inst. Ensino",
+                    "total": 19
+                },
+                {
+                    "nome": "Varejo",
+                    "total": 47
+                },
+                {
+                    "nome": "Inst. Financeira",
+                    "total": 21
+                },
+                {
+                    "nome": "CallCenter",
+                    "total": 56
+                },
+                {
+                    "nome": "Industria",
+                    "total": 7
+                }
+            ],
+            "data": 201902,
+            "tipo": "posVenda",
+            "equipe": 2
+        },
+        {
+            "usuarioID": 9,
+            "segmento": [
+                {
+                    "nome": "Outros",
+                    "total": 40
+                },
+                {
+                    "nome": "Operadora",
+                    "total": 73
+                },
+                {
+                    "nome": "Serviços",
+                    "total": 90
+                },
+                {
+                    "nome": "Saúde",
+                    "total": 65
+                },
+                {
+                    "nome": "Inst. Ensino",
+                    "total": 16
+                },
+                {
+                    "nome": "Varejo",
+                    "total": 77
+                },
+                {
+                    "nome": "Inst. Financeira",
+                    "total": 93
+                },
+                {
+                    "nome": "CallCenter",
+                    "total": 62
+                },
+                {
+                    "nome": "Industria",
+                    "total": 16
+                }
+            ],
+            "data": 201901,
+            "tipo": "posVenda",
+            "equipe": 3
+        },
+        {
+            "usuarioID": 9,
+            "segmento": [
+                {
+                    "nome": "Outros",
+                    "total": 13
+                },
+                {
+                    "nome": "Operadora",
+                    "total": 75
+                },
+                {
+                    "nome": "Serviços",
+                    "total": 79
+                },
+                {
+                    "nome": "Saúde",
+                    "total": 64
+                },
+                {
+                    "nome": "Inst. Ensino",
+                    "total": 41
+                },
+                {
+                    "nome": "Varejo",
+                    "total": 22
+                },
+                {
+                    "nome": "Inst. Financeira",
+                    "total": 35
+                },
+                {
+                    "nome": "CallCenter",
+                    "total": 24
+                },
+                {
+                    "nome": "Industria",
+                    "total": 82
+                }
+            ],
+            "data": 201902,
+            "tipo": "posVenda",
+            "equipe": 3
+        },
+        {
+            "usuarioID": 10,
+            "segmento": [
+                {
+                    "nome": "Outros",
+                    "total": 66
+                },
+                {
+                    "nome": "Operadora",
+                    "total": 66
+                },
+                {
+                    "nome": "Serviços",
+                    "total": 83
+                },
+                {
+                    "nome": "Saúde",
+                    "total": 45
+                },
+                {
+                    "nome": "Inst. Ensino",
+                    "total": 5
+                },
+                {
+                    "nome": "Varejo",
+                    "total": 79
+                },
+                {
+                    "nome": "Inst. Financeira",
+                    "total": 83
+                },
+                {
+                    "nome": "CallCenter",
+                    "total": 96
+                },
+                {
+                    "nome": "Industria",
+                    "total": 33
+                }
+            ],
+            "data": 201901,
+            "tipo": "comercial",
+            "equipe": 3
+        },
+        {
+            "usuarioID": 10,
+            "segmento": [
+                {
+                    "nome": "Outros",
+                    "total": 33
+                },
+                {
+                    "nome": "Operadora",
+                    "total": 56
+                },
+                {
+                    "nome": "Serviços",
+                    "total": 23
+                },
+                {
+                    "nome": "Saúde",
+                    "total": 37
+                },
+                {
+                    "nome": "Inst. Ensino",
+                    "total": 72
+                },
+                {
+                    "nome": "Varejo",
+                    "total": 13
+                },
+                {
+                    "nome": "Inst. Financeira",
+                    "total": 38
+                },
+                {
+                    "nome": "CallCenter",
+                    "total": 82
+                },
+                {
+                    "nome": "Industria",
+                    "total": 16
+                }
+            ],
+            "data": 201902,
+            "tipo": "comercial",
+            "equipe": 3
+        },
+        {
+            "usuarioID": 11,
+            "segmento": [
+                {
+                    "nome": "Outros",
+                    "total": 1
+                },
+                {
+                    "nome": "Operadora",
+                    "total": 42
+                },
+                {
+                    "nome": "Serviços",
+                    "total": 96
+                },
+                {
+                    "nome": "Saúde",
+                    "total": 7
+                },
+                {
+                    "nome": "Inst. Ensino",
+                    "total": 88
+                },
+                {
+                    "nome": "Varejo",
+                    "total": 96
+                },
+                {
+                    "nome": "Inst. Financeira",
+                    "total": 15
+                },
+                {
+                    "nome": "CallCenter",
+                    "total": 38
+                },
+                {
+                    "nome": "Industria",
+                    "total": 83
+                }
+            ],
+            "data": 201901,
+            "tipo": "comercial",
+            "equipe": 3
+        },
+        {
+            "usuarioID": 11,
+            "segmento": [
+                {
+                    "nome": "Outros",
+                    "total": 80
+                },
+                {
+                    "nome": "Operadora",
+                    "total": 29
+                },
+                {
+                    "nome": "Serviços",
+                    "total": 30
+                },
+                {
+                    "nome": "Saúde",
+                    "total": 59
+                },
+                {
+                    "nome": "Inst. Ensino",
+                    "total": 24
+                },
+                {
+                    "nome": "Varejo",
+                    "total": 68
+                },
+                {
+                    "nome": "Inst. Financeira",
+                    "total": 97
+                },
+                {
+                    "nome": "CallCenter",
+                    "total": 94
+                },
+                {
+                    "nome": "Industria",
+                    "total": 74
+                }
+            ],
+            "data": 201902,
+            "tipo": "comercial",
+            "equipe": 3
+        },
+        {
+            "usuarioID": 12,
+            "segmento": [
+                {
+                    "nome": "Outros",
+                    "total": 95
+                },
+                {
+                    "nome": "Operadora",
+                    "total": 53
+                },
+                {
+                    "nome": "Serviços",
+                    "total": 22
+                },
+                {
+                    "nome": "Saúde",
+                    "total": 86
+                },
+                {
+                    "nome": "Inst. Ensino",
+                    "total": 48
+                },
+                {
+                    "nome": "Varejo",
+                    "total": 6
+                },
+                {
+                    "nome": "Inst. Financeira",
+                    "total": 30
+                },
+                {
+                    "nome": "CallCenter",
+                    "total": 2
+                },
+                {
+                    "nome": "Industria",
+                    "total": 8
+                }
+            ],
+            "data": 201901,
+            "tipo": "comercial",
+            "equipe": 3
+        },
+        {
+            "usuarioID": 12,
+            "segmento": [
+                {
+                    "nome": "Outros",
+                    "total": 86
+                },
+                {
+                    "nome": "Operadora",
+                    "total": 83
+                },
+                {
+                    "nome": "Serviços",
+                    "total": 68
+                },
+                {
+                    "nome": "Saúde",
+                    "total": 36
+                },
+                {
+                    "nome": "Inst. Ensino",
+                    "total": 67
+                },
+                {
+                    "nome": "Varejo",
+                    "total": 80
+                },
+                {
+                    "nome": "Inst. Financeira",
+                    "total": 34
+                },
+                {
+                    "nome": "CallCenter",
+                    "total": 34
+                },
+                {
+                    "nome": "Industria",
+                    "total": 73
+                }
+            ],
+            "data": 201902,
+            "tipo": "comercial",
+            "equipe": 3
+        },
+        {
+            "usuarioID": 13,
+            "segmento": [
+                {
+                    "nome": "Outros",
+                    "total": 93
+                },
+                {
+                    "nome": "Operadora",
+                    "total": 24
+                },
+                {
+                    "nome": "Serviços",
+                    "total": 48
+                },
+                {
+                    "nome": "Saúde",
+                    "total": 2
+                },
+                {
+                    "nome": "Inst. Ensino",
+                    "total": 96
+                },
+                {
+                    "nome": "Varejo",
+                    "total": 76
+                },
+                {
+                    "nome": "Inst. Financeira",
+                    "total": 53
+                },
+                {
+                    "nome": "CallCenter",
+                    "total": 90
+                },
+                {
+                    "nome": "Industria",
+                    "total": 86
+                }
+            ],
+            "data": 201901,
+            "tipo": "comercial",
+            "equipe": 4
+        },
+        {
+            "usuarioID": 13,
+            "segmento": [
+                {
+                    "nome": "Outros",
+                    "total": 46
+                },
+                {
+                    "nome": "Operadora",
+                    "total": 30
+                },
+                {
+                    "nome": "Serviços",
+                    "total": 38
+                },
+                {
+                    "nome": "Saúde",
+                    "total": 34
+                },
+                {
+                    "nome": "Inst. Ensino",
+                    "total": 66
+                },
+                {
+                    "nome": "Varejo",
+                    "total": 48
+                },
+                {
+                    "nome": "Inst. Financeira",
+                    "total": 54
+                },
+                {
+                    "nome": "CallCenter",
+                    "total": 98
+                },
+                {
+                    "nome": "Industria",
+                    "total": 8
+                }
+            ],
+            "data": 201902,
+            "tipo": "comercial",
+            "equipe": 4
+        },
+        {
+            "usuarioID": 14,
+            "segmento": [
+                {
+                    "nome": "Outros",
+                    "total": 28
+                },
+                {
+                    "nome": "Operadora",
+                    "total": 62
+                },
+                {
+                    "nome": "Serviços",
+                    "total": 72
+                },
+                {
+                    "nome": "Saúde",
+                    "total": 71
+                },
+                {
+                    "nome": "Inst. Ensino",
+                    "total": 49
+                },
+                {
+                    "nome": "Varejo",
+                    "total": 36
+                },
+                {
+                    "nome": "Inst. Financeira",
+                    "total": 84
+                },
+                {
+                    "nome": "CallCenter",
+                    "total": 90
+                },
+                {
+                    "nome": "Industria",
+                    "total": 76
+                }
+            ],
+            "data": 201901,
+            "tipo": "comercial",
+            "equipe": 4
+        },
+        {
+            "usuarioID": 14,
+            "segmento": [
+                {
+                    "nome": "Outros",
+                    "total": 94
+                },
+                {
+                    "nome": "Operadora",
+                    "total": 65
+                },
+                {
+                    "nome": "Serviços",
+                    "total": 48
+                },
+                {
+                    "nome": "Saúde",
+                    "total": 24
+                },
+                {
+                    "nome": "Inst. Ensino",
+                    "total": 25
+                },
+                {
+                    "nome": "Varejo",
+                    "total": 33
+                },
+                {
+                    "nome": "Inst. Financeira",
+                    "total": 70
+                },
+                {
+                    "nome": "CallCenter",
+                    "total": 11
+                },
+                {
+                    "nome": "Industria",
+                    "total": 34
+                }
+            ],
+            "data": 201902,
+            "tipo": "comercial",
+            "equipe": 4
+        },
+        {
+            "usuarioID": 15,
+            "segmento": [
+                {
+                    "nome": "Outros",
+                    "total": 31
+                },
+                {
+                    "nome": "Operadora",
+                    "total": 52
+                },
+                {
+                    "nome": "Serviços",
+                    "total": 42
+                },
+                {
+                    "nome": "Saúde",
+                    "total": 18
+                },
+                {
+                    "nome": "Inst. Ensino",
+                    "total": 23
+                },
+                {
+                    "nome": "Varejo",
+                    "total": 40
+                },
+                {
+                    "nome": "Inst. Financeira",
+                    "total": 32
+                },
+                {
+                    "nome": "CallCenter",
+                    "total": 3
+                },
+                {
+                    "nome": "Industria",
+                    "total": 14
+                }
+            ],
+            "data": 201901,
+            "tipo": "comercial",
+            "equipe": 4
+        },
+        {
+            "usuarioID": 15,
+            "segmento": [
+                {
+                    "nome": "Outros",
+                    "total": 1
+                },
+                {
+                    "nome": "Operadora",
+                    "total": 87
+                },
+                {
+                    "nome": "Serviços",
+                    "total": 57
+                },
+                {
+                    "nome": "Saúde",
+                    "total": 3
+                },
+                {
+                    "nome": "Inst. Ensino",
+                    "total": 96
+                },
+                {
+                    "nome": "Varejo",
+                    "total": 32
+                },
+                {
+                    "nome": "Inst. Financeira",
+                    "total": 13
+                },
+                {
+                    "nome": "CallCenter",
+                    "total": 80
+                },
+                {
+                    "nome": "Industria",
+                    "total": 60
+                }
+            ],
+            "data": 201902,
+            "tipo": "comercial",
+            "equipe": 4
+        },
+        {
+            "usuarioID": 16,
+            "segmento": [
+                {
+                    "nome": "Outros",
+                    "total": 9
+                },
+                {
+                    "nome": "Operadora",
+                    "total": 32
+                },
+                {
+                    "nome": "Serviços",
+                    "total": 38
+                },
+                {
+                    "nome": "Saúde",
+                    "total": 49
+                },
+                {
+                    "nome": "Inst. Ensino",
+                    "total": 15
+                },
+                {
+                    "nome": "Varejo",
+                    "total": 23
+                },
+                {
+                    "nome": "Inst. Financeira",
+                    "total": 40
+                },
+                {
+                    "nome": "CallCenter",
+                    "total": 6
+                },
+                {
+                    "nome": "Industria",
+                    "total": 69
+                }
+            ],
+            "data": 201901,
+            "tipo": "comercial",
+            "equipe": 4
+        },
+        {
+            "usuarioID": 16,
+            "segmento": [
+                {
+                    "nome": "Outros",
+                    "total": 94
+                },
+                {
+                    "nome": "Operadora",
+                    "total": 31
+                },
+                {
+                    "nome": "Serviços",
+                    "total": 55
+                },
+                {
+                    "nome": "Saúde",
+                    "total": 29
+                },
+                {
+                    "nome": "Inst. Ensino",
+                    "total": 23
+                },
+                {
+                    "nome": "Varejo",
+                    "total": 0
+                },
+                {
+                    "nome": "Inst. Financeira",
+                    "total": 76
+                },
+                {
+                    "nome": "CallCenter",
+                    "total": 35
+                },
+                {
+                    "nome": "Industria",
+                    "total": 23
+                }
+            ],
+            "data": 201902,
+            "tipo": "comercial",
+            "equipe": 4
+        }
+    ]
+}
   "profile": {
     "name": "Api-Vonex"
   }
