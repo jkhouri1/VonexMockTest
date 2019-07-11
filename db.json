@@ -2815,1811 +2815,1804 @@
       "equipe": 4
     }
   ],
-{
-    "statusClientes": [
+  "statusClientes": [
+    {
+      "usuarioID": 1,
+      "statusClientes": [
         {
-            "usuarioID": 1,
-            "statusClientes": [
-                {
-                    "nome": "Ativos",
-                    "total": 2
-                },
-                {
-                    "nome": "Pend. Ativação",
-                    "total": 82
-                },
-                {
-                    "nome": "Inativos",
-                    "total": 16
-                }
-            ],
-            "data": 201901,
-            "tipo": "posVenda",
-            "equipe": 1
+          "nome": "Ativos",
+          "total": 2
         },
         {
-            "usuarioID": 1,
-            "statusClientes": [
-                {
-                    "nome": "Ativos",
-                    "total": 81
-                },
-                {
-                    "nome": "Pend. Ativação",
-                    "total": 43
-                },
-                {
-                    "nome": "Inativos",
-                    "total": 8
-                }
-            ],
-            "data": 201902,
-            "tipo": "posVenda",
-            "equipe": 1
+          "nome": "Pend. Ativação",
+          "total": 82
         },
         {
-            "usuarioID": 2,
-            "statusClientes": [
-                {
-                    "nome": "Ativos",
-                    "total": 17
-                },
-                {
-                    "nome": "Pend. Ativação",
-                    "total": 0
-                },
-                {
-                    "nome": "Inativos",
-                    "total": 71
-                }
-            ],
-            "data": 201901,
-            "tipo": "posVenda",
-            "equipe": 1
-        },
-        {
-            "usuarioID": 2,
-            "statusClientes": [
-                {
-                    "nome": "Ativos",
-                    "total": 31
-                },
-                {
-                    "nome": "Pend. Ativação",
-                    "total": 92
-                },
-                {
-                    "nome": "Inativos",
-                    "total": 77
-                }
-            ],
-            "data": 201902,
-            "tipo": "posVenda",
-            "equipe": 1
-        },
-        {
-            "usuarioID": 3,
-            "statusClientes": [
-                {
-                    "nome": "Ativos",
-                    "total": 76
-                },
-                {
-                    "nome": "Pend. Ativação",
-                    "total": 20
-                },
-                {
-                    "nome": "Inativos",
-                    "total": 4
-                }
-            ],
-            "data": 201901,
-            "tipo": "posVenda",
-            "equipe": 1
-        },
-        {
-            "usuarioID": 3,
-            "statusClientes": [
-                {
-                    "nome": "Ativos",
-                    "total": 97
-                },
-                {
-                    "nome": "Pend. Ativação",
-                    "total": 93
-                },
-                {
-                    "nome": "Inativos",
-                    "total": 83
-                }
-            ],
-            "data": 201902,
-            "tipo": "posVenda",
-            "equipe": 1
-        },
-        {
-            "usuarioID": 4,
-            "statusClientes": [
-                {
-                    "nome": "Ativos",
-                    "total": 45
-                },
-                {
-                    "nome": "Pend. Ativação",
-                    "total": 78
-                },
-                {
-                    "nome": "Inativos",
-                    "total": 20
-                }
-            ],
-            "data": 201901,
-            "tipo": "posVenda",
-            "equipe": 1
-        },
-        {
-            "usuarioID": 4,
-            "statusClientes": [
-                {
-                    "nome": "Ativos",
-                    "total": 11
-                },
-                {
-                    "nome": "Pend. Ativação",
-                    "total": 56
-                },
-                {
-                    "nome": "Inativos",
-                    "total": 87
-                }
-            ],
-            "data": 201902,
-            "tipo": "posVenda",
-            "equipe": 1
-        },
-        {
-            "usuarioID": 5,
-            "statusClientes": [
-                {
-                    "nome": "Ativos",
-                    "total": 47
-                },
-                {
-                    "nome": "Pend. Ativação",
-                    "total": 40
-                },
-                {
-                    "nome": "Inativos",
-                    "total": 79
-                }
-            ],
-            "data": 201901,
-            "tipo": "posVenda",
-            "equipe": 2
-        },
-        {
-            "usuarioID": 5,
-            "statusClientes": [
-                {
-                    "nome": "Ativos",
-                    "total": 13
-                },
-                {
-                    "nome": "Pend. Ativação",
-                    "total": 8
-                },
-                {
-                    "nome": "Inativos",
-                    "total": 68
-                }
-            ],
-            "data": 201902,
-            "tipo": "posVenda",
-            "equipe": 2
-        },
-        {
-            "usuarioID": 6,
-            "statusClientes": [
-                {
-                    "nome": "Ativos",
-                    "total": 5
-                },
-                {
-                    "nome": "Pend. Ativação",
-                    "total": 85
-                },
-                {
-                    "nome": "Inativos",
-                    "total": 45
-                }
-            ],
-            "data": 201901,
-            "tipo": "posVenda",
-            "equipe": 2
-        },
-        {
-            "usuarioID": 6,
-            "statusClientes": [
-                {
-                    "nome": "Ativos",
-                    "total": 52
-                },
-                {
-                    "nome": "Pend. Ativação",
-                    "total": 18
-                },
-                {
-                    "nome": "Inativos",
-                    "total": 7
-                }
-            ],
-            "data": 201902,
-            "tipo": "posVenda",
-            "equipe": 2
-        },
-        {
-            "usuarioID": 7,
-            "statusClientes": [
-                {
-                    "nome": "Ativos",
-                    "total": 17
-                },
-                {
-                    "nome": "Pend. Ativação",
-                    "total": 40
-                },
-                {
-                    "nome": "Inativos",
-                    "total": 0
-                }
-            ],
-            "data": 201901,
-            "tipo": "posVenda",
-            "equipe": 2
-        },
-        {
-            "usuarioID": 7,
-            "statusClientes": [
-                {
-                    "nome": "Ativos",
-                    "total": 10
-                },
-                {
-                    "nome": "Pend. Ativação",
-                    "total": 84
-                },
-                {
-                    "nome": "Inativos",
-                    "total": 21
-                }
-            ],
-            "data": 201902,
-            "tipo": "posVenda",
-            "equipe": 2
-        },
-        {
-            "usuarioID": 8,
-            "statusClientes": [
-                {
-                    "nome": "Ativos",
-                    "total": 80
-                },
-                {
-                    "nome": "Pend. Ativação",
-                    "total": 68
-                },
-                {
-                    "nome": "Inativos",
-                    "total": 68
-                }
-            ],
-            "data": 201901,
-            "tipo": "posVenda",
-            "equipe": 2
-        },
-        {
-            "usuarioID": 8,
-            "statusClientes": [
-                {
-                    "nome": "Ativos",
-                    "total": 45
-                },
-                {
-                    "nome": "Pend. Ativação",
-                    "total": 73
-                },
-                {
-                    "nome": "Inativos",
-                    "total": 90
-                }
-            ],
-            "data": 201902,
-            "tipo": "posVenda",
-            "equipe": 2
-        },
-        {
-            "usuarioID": 9,
-            "statusClientes": [
-                {
-                    "nome": "Ativos",
-                    "total": 32
-                },
-                {
-                    "nome": "Pend. Ativação",
-                    "total": 88
-                },
-                {
-                    "nome": "Inativos",
-                    "total": 0
-                }
-            ],
-            "data": 201901,
-            "tipo": "posVenda",
-            "equipe": 3
-        },
-        {
-            "usuarioID": 9,
-            "statusClientes": [
-                {
-                    "nome": "Ativos",
-                    "total": 16
-                },
-                {
-                    "nome": "Pend. Ativação",
-                    "total": 29
-                },
-                {
-                    "nome": "Inativos",
-                    "total": 77
-                }
-            ],
-            "data": 201902,
-            "tipo": "posVenda",
-            "equipe": 3
-        },
-        {
-            "usuarioID": 10,
-            "statusClientes": [
-                {
-                    "nome": "Ativos",
-                    "total": 25
-                },
-                {
-                    "nome": "Pend. Ativação",
-                    "total": 43
-                },
-                {
-                    "nome": "Inativos",
-                    "total": 64
-                }
-            ],
-            "data": 201901,
-            "tipo": "comercial",
-            "equipe": 3
-        },
-        {
-            "usuarioID": 10,
-            "statusClientes": [
-                {
-                    "nome": "Ativos",
-                    "total": 15
-                },
-                {
-                    "nome": "Pend. Ativação",
-                    "total": 46
-                },
-                {
-                    "nome": "Inativos",
-                    "total": 19
-                }
-            ],
-            "data": 201902,
-            "tipo": "comercial",
-            "equipe": 3
-        },
-        {
-            "usuarioID": 11,
-            "statusClientes": [
-                {
-                    "nome": "Ativos",
-                    "total": 92
-                },
-                {
-                    "nome": "Pend. Ativação",
-                    "total": 34
-                },
-                {
-                    "nome": "Inativos",
-                    "total": 23
-                }
-            ],
-            "data": 201901,
-            "tipo": "comercial",
-            "equipe": 3
-        },
-        {
-            "usuarioID": 11,
-            "statusClientes": [
-                {
-                    "nome": "Ativos",
-                    "total": 47
-                },
-                {
-                    "nome": "Pend. Ativação",
-                    "total": 37
-                },
-                {
-                    "nome": "Inativos",
-                    "total": 55
-                }
-            ],
-            "data": 201902,
-            "tipo": "comercial",
-            "equipe": 3
-        },
-        {
-            "usuarioID": 12,
-            "statusClientes": [
-                {
-                    "nome": "Ativos",
-                    "total": 34
-                },
-                {
-                    "nome": "Pend. Ativação",
-                    "total": 11
-                },
-                {
-                    "nome": "Inativos",
-                    "total": 49
-                }
-            ],
-            "data": 201901,
-            "tipo": "comercial",
-            "equipe": 3
-        },
-        {
-            "usuarioID": 12,
-            "statusClientes": [
-                {
-                    "nome": "Ativos",
-                    "total": 87
-                },
-                {
-                    "nome": "Pend. Ativação",
-                    "total": 71
-                },
-                {
-                    "nome": "Inativos",
-                    "total": 1
-                }
-            ],
-            "data": 201902,
-            "tipo": "comercial",
-            "equipe": 3
-        },
-        {
-            "usuarioID": 13,
-            "statusClientes": [
-                {
-                    "nome": "Ativos",
-                    "total": 78
-                },
-                {
-                    "nome": "Pend. Ativação",
-                    "total": 26
-                },
-                {
-                    "nome": "Inativos",
-                    "total": 79
-                }
-            ],
-            "data": 201901,
-            "tipo": "comercial",
-            "equipe": 4
-        },
-        {
-            "usuarioID": 13,
-            "statusClientes": [
-                {
-                    "nome": "Ativos",
-                    "total": 49
-                },
-                {
-                    "nome": "Pend. Ativação",
-                    "total": 68
-                },
-                {
-                    "nome": "Inativos",
-                    "total": 24
-                }
-            ],
-            "data": 201902,
-            "tipo": "comercial",
-            "equipe": 4
-        },
-        {
-            "usuarioID": 14,
-            "statusClientes": [
-                {
-                    "nome": "Ativos",
-                    "total": 63
-                },
-                {
-                    "nome": "Pend. Ativação",
-                    "total": 73
-                },
-                {
-                    "nome": "Inativos",
-                    "total": 87
-                }
-            ],
-            "data": 201901,
-            "tipo": "comercial",
-            "equipe": 4
-        },
-        {
-            "usuarioID": 14,
-            "statusClientes": [
-                {
-                    "nome": "Ativos",
-                    "total": 88
-                },
-                {
-                    "nome": "Pend. Ativação",
-                    "total": 37
-                },
-                {
-                    "nome": "Inativos",
-                    "total": 45
-                }
-            ],
-            "data": 201902,
-            "tipo": "comercial",
-            "equipe": 4
-        },
-        {
-            "usuarioID": 15,
-            "statusClientes": [
-                {
-                    "nome": "Ativos",
-                    "total": 78
-                },
-                {
-                    "nome": "Pend. Ativação",
-                    "total": 30
-                },
-                {
-                    "nome": "Inativos",
-                    "total": 72
-                }
-            ],
-            "data": 201901,
-            "tipo": "comercial",
-            "equipe": 4
-        },
-        {
-            "usuarioID": 15,
-            "statusClientes": [
-                {
-                    "nome": "Ativos",
-                    "total": 76
-                },
-                {
-                    "nome": "Pend. Ativação",
-                    "total": 71
-                },
-                {
-                    "nome": "Inativos",
-                    "total": 58
-                }
-            ],
-            "data": 201902,
-            "tipo": "comercial",
-            "equipe": 4
-        },
-        {
-            "usuarioID": 16,
-            "statusClientes": [
-                {
-                    "nome": "Ativos",
-                    "total": 19
-                },
-                {
-                    "nome": "Pend. Ativação",
-                    "total": 62
-                },
-                {
-                    "nome": "Inativos",
-                    "total": 86
-                }
-            ],
-            "data": 201901,
-            "tipo": "comercial",
-            "equipe": 4
-        },
-        {
-            "usuarioID": 16,
-            "statusClientes": [
-                {
-                    "nome": "Ativos",
-                    "total": 56
-                },
-                {
-                    "nome": "Pend. Ativação",
-                    "total": 90
-                },
-                {
-                    "nome": "Inativos",
-                    "total": 64
-                }
-            ],
-            "data": 201902,
-            "tipo": "comercial",
-            "equipe": 4
+          "nome": "Inativos",
+          "total": 16
         }
-    ]
-},
-{
-    "clientesCancelados": [
+      ],
+      "data": 201901,
+      "tipo": "posVenda",
+      "equipe": 1
+    },
+    {
+      "usuarioID": 1,
+      "statusClientes": [
         {
-            "usuarioID": 1,
-            "clientesCancelados": [
-                {
-                    "nome": "Total",
-                    "total": 2
-                },
-                {
-                    "nome": "Parcial",
-                    "total": 64
-                }
-            ],
-            "data": 201901,
-            "tipo": "posVenda",
-            "equipe": 1
+          "nome": "Ativos",
+          "total": 81
         },
         {
-            "usuarioID": 1,
-            "clientesCancelados": [
-                {
-                    "nome": "Total",
-                    "total": 2
-                },
-                {
-                    "nome": "Parcial",
-                    "total": 64
-                }
-            ],
-            "data": 201902,
-            "tipo": "posVenda",
-            "equipe": 1
+          "nome": "Pend. Ativação",
+          "total": 43
         },
         {
-            "usuarioID": 2,
-            "clientesCancelados": [
-                {
-                    "nome": "Total",
-                    "total": 77
-                },
-                {
-                    "nome": "Parcial",
-                    "total": 82
-                }
-            ],
-            "data": 201901,
-            "tipo": "posVenda",
-            "equipe": 1
-        },
-        {
-            "usuarioID": 2,
-            "clientesCancelados": [
-                {
-                    "nome": "Total",
-                    "total": 77
-                },
-                {
-                    "nome": "Parcial",
-                    "total": 82
-                }
-            ],
-            "data": 201902,
-            "tipo": "posVenda",
-            "equipe": 1
-        },
-        {
-            "usuarioID": 3,
-            "clientesCancelados": [
-                {
-                    "nome": "Total",
-                    "total": 55
-                },
-                {
-                    "nome": "Parcial",
-                    "total": 64
-                }
-            ],
-            "data": 201901,
-            "tipo": "posVenda",
-            "equipe": 1
-        },
-        {
-            "usuarioID": 3,
-            "clientesCancelados": [
-                {
-                    "nome": "Total",
-                    "total": 55
-                },
-                {
-                    "nome": "Parcial",
-                    "total": 64
-                }
-            ],
-            "data": 201902,
-            "tipo": "posVenda",
-            "equipe": 1
-        },
-        {
-            "usuarioID": 4,
-            "clientesCancelados": [
-                {
-                    "nome": "Total",
-                    "total": 88
-                },
-                {
-                    "nome": "Parcial",
-                    "total": 10
-                }
-            ],
-            "data": 201901,
-            "tipo": "posVenda",
-            "equipe": 1
-        },
-        {
-            "usuarioID": 4,
-            "clientesCancelados": [
-                {
-                    "nome": "Total",
-                    "total": 88
-                },
-                {
-                    "nome": "Parcial",
-                    "total": 10
-                }
-            ],
-            "data": 201902,
-            "tipo": "posVenda",
-            "equipe": 1
-        },
-        {
-            "usuarioID": 5,
-            "clientesCancelados": [
-                {
-                    "nome": "Total",
-                    "total": 0
-                },
-                {
-                    "nome": "Parcial",
-                    "total": 19
-                }
-            ],
-            "data": 201901,
-            "tipo": "posVenda",
-            "equipe": 2
-        },
-        {
-            "usuarioID": 5,
-            "clientesCancelados": [
-                {
-                    "nome": "Total",
-                    "total": 0
-                },
-                {
-                    "nome": "Parcial",
-                    "total": 19
-                }
-            ],
-            "data": 201902,
-            "tipo": "posVenda",
-            "equipe": 2
-        },
-        {
-            "usuarioID": 6,
-            "clientesCancelados": [
-                {
-                    "nome": "Total",
-                    "total": 83
-                },
-                {
-                    "nome": "Parcial",
-                    "total": 93
-                }
-            ],
-            "data": 201901,
-            "tipo": "posVenda",
-            "equipe": 2
-        },
-        {
-            "usuarioID": 6,
-            "clientesCancelados": [
-                {
-                    "nome": "Total",
-                    "total": 83
-                },
-                {
-                    "nome": "Parcial",
-                    "total": 93
-                }
-            ],
-            "data": 201902,
-            "tipo": "posVenda",
-            "equipe": 2
-        },
-        {
-            "usuarioID": 7,
-            "clientesCancelados": [
-                {
-                    "nome": "Total",
-                    "total": 85
-                },
-                {
-                    "nome": "Parcial",
-                    "total": 14
-                }
-            ],
-            "data": 201901,
-            "tipo": "posVenda",
-            "equipe": 2
-        },
-        {
-            "usuarioID": 7,
-            "clientesCancelados": [
-                {
-                    "nome": "Total",
-                    "total": 85
-                },
-                {
-                    "nome": "Parcial",
-                    "total": 14
-                }
-            ],
-            "data": 201902,
-            "tipo": "posVenda",
-            "equipe": 2
-        },
-        {
-            "usuarioID": 8,
-            "clientesCancelados": [
-                {
-                    "nome": "Total",
-                    "total": 58
-                },
-                {
-                    "nome": "Parcial",
-                    "total": 96
-                }
-            ],
-            "data": 201901,
-            "tipo": "posVenda",
-            "equipe": 2
-        },
-        {
-            "usuarioID": 8,
-            "clientesCancelados": [
-                {
-                    "nome": "Total",
-                    "total": 58
-                },
-                {
-                    "nome": "Parcial",
-                    "total": 96
-                }
-            ],
-            "data": 201902,
-            "tipo": "posVenda",
-            "equipe": 2
-        },
-        {
-            "usuarioID": 9,
-            "clientesCancelados": [
-                {
-                    "nome": "Total",
-                    "total": 46
-                },
-                {
-                    "nome": "Parcial",
-                    "total": 24
-                }
-            ],
-            "data": 201901,
-            "tipo": "posVenda",
-            "equipe": 3
-        },
-        {
-            "usuarioID": 9,
-            "clientesCancelados": [
-                {
-                    "nome": "Total",
-                    "total": 46
-                },
-                {
-                    "nome": "Parcial",
-                    "total": 24
-                }
-            ],
-            "data": 201902,
-            "tipo": "posVenda",
-            "equipe": 3
-        },
-        {
-            "usuarioID": 10,
-            "clientesCancelados": [
-                {
-                    "nome": "Total",
-                    "total": 69
-                },
-                {
-                    "nome": "Parcial",
-                    "total": 17
-                }
-            ],
-            "data": 201901,
-            "tipo": "posVenda",
-            "equipe": 3
-        },
-        {
-            "usuarioID": 10,
-            "clientesCancelados": [
-                {
-                    "nome": "Total",
-                    "total": 69
-                },
-                {
-                    "nome": "Parcial",
-                    "total": 17
-                }
-            ],
-            "data": 201902,
-            "tipo": "posVenda",
-            "equipe": 3
-        },
-        {
-            "usuarioID": 11,
-            "clientesCancelados": [
-                {
-                    "nome": "Total",
-                    "total": 86
-                },
-                {
-                    "nome": "Parcial",
-                    "total": 84
-                }
-            ],
-            "data": 201901,
-            "tipo": "posVenda",
-            "equipe": 3
-        },
-        {
-            "usuarioID": 11,
-            "clientesCancelados": [
-                {
-                    "nome": "Total",
-                    "total": 86
-                },
-                {
-                    "nome": "Parcial",
-                    "total": 84
-                }
-            ],
-            "data": 201902,
-            "tipo": "posVenda",
-            "equipe": 3
-        },
-        {
-            "usuarioID": 12,
-            "clientesCancelados": [
-                {
-                    "nome": "Total",
-                    "total": 12
-                },
-                {
-                    "nome": "Parcial",
-                    "total": 2
-                }
-            ],
-            "data": 201901,
-            "tipo": "posVenda",
-            "equipe": 3
-        },
-        {
-            "usuarioID": 12,
-            "clientesCancelados": [
-                {
-                    "nome": "Total",
-                    "total": 12
-                },
-                {
-                    "nome": "Parcial",
-                    "total": 2
-                }
-            ],
-            "data": 201902,
-            "tipo": "posVenda",
-            "equipe": 3
-        },
-        {
-            "usuarioID": 13,
-            "clientesCancelados": [
-                {
-                    "nome": "Total",
-                    "total": 53
-                },
-                {
-                    "nome": "Parcial",
-                    "total": 81
-                }
-            ],
-            "data": 201901,
-            "tipo": "posVenda",
-            "equipe": 4
-        },
-        {
-            "usuarioID": 13,
-            "clientesCancelados": [
-                {
-                    "nome": "Total",
-                    "total": 53
-                },
-                {
-                    "nome": "Parcial",
-                    "total": 81
-                }
-            ],
-            "data": 201902,
-            "tipo": "posVenda",
-            "equipe": 4
-        },
-        {
-            "usuarioID": 14,
-            "clientesCancelados": [
-                {
-                    "nome": "Total",
-                    "total": 98
-                },
-                {
-                    "nome": "Parcial",
-                    "total": 57
-                }
-            ],
-            "data": 201901,
-            "tipo": "posVenda",
-            "equipe": 4
-        },
-        {
-            "usuarioID": 14,
-            "clientesCancelados": [
-                {
-                    "nome": "Total",
-                    "total": 98
-                },
-                {
-                    "nome": "Parcial",
-                    "total": 57
-                }
-            ],
-            "data": 201902,
-            "tipo": "posVenda",
-            "equipe": 4
-        },
-        {
-            "usuarioID": 15,
-            "clientesCancelados": [
-                {
-                    "nome": "Total",
-                    "total": 86
-                },
-                {
-                    "nome": "Parcial",
-                    "total": 27
-                }
-            ],
-            "data": 201901,
-            "tipo": "posVenda",
-            "equipe": 4
-        },
-        {
-            "usuarioID": 15,
-            "clientesCancelados": [
-                {
-                    "nome": "Total",
-                    "total": 86
-                },
-                {
-                    "nome": "Parcial",
-                    "total": 27
-                }
-            ],
-            "data": 201902,
-            "tipo": "posVenda",
-            "equipe": 4
-        },
-        {
-            "usuarioID": 16,
-            "clientesCancelados": [
-                {
-                    "nome": "Total",
-                    "total": 70
-                },
-                {
-                    "nome": "Parcial",
-                    "total": 76
-                }
-            ],
-            "data": 201901,
-            "tipo": "posVenda",
-            "equipe": 4
-        },
-        {
-            "usuarioID": 16,
-            "clientesCancelados": [
-                {
-                    "nome": "Total",
-                    "total": 70
-                },
-                {
-                    "nome": "Parcial",
-                    "total": 76
-                }
-            ],
-            "data": 201902,
-            "tipo": "posVenda",
-            "equipe": 4
+          "nome": "Inativos",
+          "total": 8
         }
-    ]
-},
-{
-    "vendas": [
+      ],
+      "data": 201902,
+      "tipo": "posVenda",
+      "equipe": 1
+    },
+    {
+      "usuarioID": 2,
+      "statusClientes": [
         {
-            "usuarioID": 1,
-            "vendas": [
-                {
-                    "nome": "Voz",
-                    "total": "44"
-                },
-                {
-                    "nome": "Dados",
-                    "total": "10"
-                },
-                {
-                    "nome": "SMS",
-                    "total": "28"
-                }
-            ],
-            "data": 201901,
-            "tipo": "posVenda",
-            "equipe": 1
+          "nome": "Ativos",
+          "total": 17
         },
         {
-            "usuarioID": 1,
-            "vendas": [
-                {
-                    "nome": "Voz",
-                    "total": "44"
-                },
-                {
-                    "nome": "Dados",
-                    "total": "10"
-                },
-                {
-                    "nome": "SMS",
-                    "total": "28"
-                }
-            ],
-            "data": 201902,
-            "tipo": "posVenda",
-            "equipe": 1
+          "nome": "Pend. Ativação",
+          "total": 0
         },
         {
-            "usuarioID": 2,
-            "vendas": [
-                {
-                    "nome": "Voz",
-                    "total": "24"
-                },
-                {
-                    "nome": "Dados",
-                    "total": "61"
-                },
-                {
-                    "nome": "SMS",
-                    "total": "41"
-                }
-            ],
-            "data": 201901,
-            "tipo": "posVenda",
-            "equipe": 1
-        },
-        {
-            "usuarioID": 2,
-            "vendas": [
-                {
-                    "nome": "Voz",
-                    "total": "24"
-                },
-                {
-                    "nome": "Dados",
-                    "total": "61"
-                },
-                {
-                    "nome": "SMS",
-                    "total": "41"
-                }
-            ],
-            "data": 201902,
-            "tipo": "posVenda",
-            "equipe": 1
-        },
-        {
-            "usuarioID": 3,
-            "vendas": [
-                {
-                    "nome": "Voz",
-                    "total": "33"
-                },
-                {
-                    "nome": "Dados",
-                    "total": "39"
-                },
-                {
-                    "nome": "SMS",
-                    "total": "48"
-                }
-            ],
-            "data": 201901,
-            "tipo": "posVenda",
-            "equipe": 1
-        },
-        {
-            "usuarioID": 3,
-            "vendas": [
-                {
-                    "nome": "Voz",
-                    "total": "33"
-                },
-                {
-                    "nome": "Dados",
-                    "total": "39"
-                },
-                {
-                    "nome": "SMS",
-                    "total": "48"
-                }
-            ],
-            "data": 201902,
-            "tipo": "posVenda",
-            "equipe": 1
-        },
-        {
-            "usuarioID": 4,
-            "vendas": [
-                {
-                    "nome": "Voz",
-                    "total": "99"
-                },
-                {
-                    "nome": "Dados",
-                    "total": "50"
-                },
-                {
-                    "nome": "SMS",
-                    "total": "20"
-                }
-            ],
-            "data": 201901,
-            "tipo": "posVenda",
-            "equipe": 1
-        },
-        {
-            "usuarioID": 4,
-            "vendas": [
-                {
-                    "nome": "Voz",
-                    "total": "99"
-                },
-                {
-                    "nome": "Dados",
-                    "total": "50"
-                },
-                {
-                    "nome": "SMS",
-                    "total": "20"
-                }
-            ],
-            "data": 201902,
-            "tipo": "posVenda",
-            "equipe": 1
-        },
-        {
-            "usuarioID": 5,
-            "vendas": [
-                {
-                    "nome": "Voz",
-                    "total": "7"
-                },
-                {
-                    "nome": "Dados",
-                    "total": "3"
-                },
-                {
-                    "nome": "SMS",
-                    "total": "29"
-                }
-            ],
-            "data": 201901,
-            "tipo": "posVenda",
-            "equipe": 2
-        },
-        {
-            "usuarioID": 5,
-            "vendas": [
-                {
-                    "nome": "Voz",
-                    "total": "7"
-                },
-                {
-                    "nome": "Dados",
-                    "total": "3"
-                },
-                {
-                    "nome": "SMS",
-                    "total": "29"
-                }
-            ],
-            "data": 201902,
-            "tipo": "posVenda",
-            "equipe": 2
-        },
-        {
-            "usuarioID": 6,
-            "vendas": [
-                {
-                    "nome": "Voz",
-                    "total": "39"
-                },
-                {
-                    "nome": "Dados",
-                    "total": "67"
-                },
-                {
-                    "nome": "SMS",
-                    "total": "19"
-                }
-            ],
-            "data": 201901,
-            "tipo": "posVenda",
-            "equipe": 2
-        },
-        {
-            "usuarioID": 6,
-            "vendas": [
-                {
-                    "nome": "Voz",
-                    "total": "39"
-                },
-                {
-                    "nome": "Dados",
-                    "total": "67"
-                },
-                {
-                    "nome": "SMS",
-                    "total": "19"
-                }
-            ],
-            "data": 201902,
-            "tipo": "posVenda",
-            "equipe": 2
-        },
-        {
-            "usuarioID": 7,
-            "vendas": [
-                {
-                    "nome": "Voz",
-                    "total": "61"
-                },
-                {
-                    "nome": "Dados",
-                    "total": "96"
-                },
-                {
-                    "nome": "SMS",
-                    "total": "49"
-                }
-            ],
-            "data": 201901,
-            "tipo": "posVenda",
-            "equipe": 2
-        },
-        {
-            "usuarioID": 7,
-            "vendas": [
-                {
-                    "nome": "Voz",
-                    "total": "61"
-                },
-                {
-                    "nome": "Dados",
-                    "total": "96"
-                },
-                {
-                    "nome": "SMS",
-                    "total": "49"
-                }
-            ],
-            "data": 201902,
-            "tipo": "posVenda",
-            "equipe": 2
-        },
-        {
-            "usuarioID": 8,
-            "vendas": [
-                {
-                    "nome": "Voz",
-                    "total": "29"
-                },
-                {
-                    "nome": "Dados",
-                    "total": "13"
-                },
-                {
-                    "nome": "SMS",
-                    "total": "46"
-                }
-            ],
-            "data": 201901,
-            "tipo": "posVenda",
-            "equipe": 2
-        },
-        {
-            "usuarioID": 8,
-            "vendas": [
-                {
-                    "nome": "Voz",
-                    "total": "29"
-                },
-                {
-                    "nome": "Dados",
-                    "total": "13"
-                },
-                {
-                    "nome": "SMS",
-                    "total": "46"
-                }
-            ],
-            "data": 201902,
-            "tipo": "posVenda",
-            "equipe": 2
-        },
-        {
-            "usuarioID": 9,
-            "vendas": [
-                {
-                    "nome": "Voz",
-                    "total": "77"
-                },
-                {
-                    "nome": "Dados",
-                    "total": "32"
-                },
-                {
-                    "nome": "SMS",
-                    "total": "27"
-                }
-            ],
-            "data": 201901,
-            "tipo": "posVenda",
-            "equipe": 3
-        },
-        {
-            "usuarioID": 9,
-            "vendas": [
-                {
-                    "nome": "Voz",
-                    "total": "77"
-                },
-                {
-                    "nome": "Dados",
-                    "total": "32"
-                },
-                {
-                    "nome": "SMS",
-                    "total": "27"
-                }
-            ],
-            "data": 201902,
-            "tipo": "posVenda",
-            "equipe": 3
-        },
-        {
-            "usuarioID": 10,
-            "vendas": [
-                {
-                    "nome": "Voz",
-                    "total": "63"
-                },
-                {
-                    "nome": "Dados",
-                    "total": "24"
-                },
-                {
-                    "nome": "SMS",
-                    "total": "19"
-                }
-            ],
-            "data": 201901,
-            "tipo": "comercial",
-            "equipe": 3
-        },
-        {
-            "usuarioID": 10,
-            "vendas": [
-                {
-                    "nome": "Voz",
-                    "total": "63"
-                },
-                {
-                    "nome": "Dados",
-                    "total": "24"
-                },
-                {
-                    "nome": "SMS",
-                    "total": "19"
-                }
-            ],
-            "data": 201902,
-            "tipo": "comercial",
-            "equipe": 3
-        },
-        {
-            "usuarioID": 11,
-            "vendas": [
-                {
-                    "nome": "Voz",
-                    "total": "10"
-                },
-                {
-                    "nome": "Dados",
-                    "total": "78"
-                },
-                {
-                    "nome": "SMS",
-                    "total": "90"
-                }
-            ],
-            "data": 201901,
-            "tipo": "comercial",
-            "equipe": 3
-        },
-        {
-            "usuarioID": 11,
-            "vendas": [
-                {
-                    "nome": "Voz",
-                    "total": "10"
-                },
-                {
-                    "nome": "Dados",
-                    "total": "78"
-                },
-                {
-                    "nome": "SMS",
-                    "total": "90"
-                }
-            ],
-            "data": 201902,
-            "tipo": "comercial",
-            "equipe": 3
-        },
-        {
-            "usuarioID": 12,
-            "vendas": [
-                {
-                    "nome": "Voz",
-                    "total": "6"
-                },
-                {
-                    "nome": "Dados",
-                    "total": "62"
-                },
-                {
-                    "nome": "SMS",
-                    "total": "73"
-                }
-            ],
-            "data": 201901,
-            "tipo": "comercial",
-            "equipe": 3
-        },
-        {
-            "usuarioID": 12,
-            "vendas": [
-                {
-                    "nome": "Voz",
-                    "total": "6"
-                },
-                {
-                    "nome": "Dados",
-                    "total": "62"
-                },
-                {
-                    "nome": "SMS",
-                    "total": "73"
-                }
-            ],
-            "data": 201902,
-            "tipo": "comercial",
-            "equipe": 3
-        },
-        {
-            "usuarioID": 13,
-            "vendas": [
-                {
-                    "nome": "Voz",
-                    "total": "1"
-                },
-                {
-                    "nome": "Dados",
-                    "total": "43"
-                },
-                {
-                    "nome": "SMS",
-                    "total": "41"
-                }
-            ],
-            "data": 201901,
-            "tipo": "comercial",
-            "equipe": 4
-        },
-        {
-            "usuarioID": 13,
-            "vendas": [
-                {
-                    "nome": "Voz",
-                    "total": "1"
-                },
-                {
-                    "nome": "Dados",
-                    "total": "43"
-                },
-                {
-                    "nome": "SMS",
-                    "total": "41"
-                }
-            ],
-            "data": 201902,
-            "tipo": "comercial",
-            "equipe": 4
-        },
-        {
-            "usuarioID": 14,
-            "vendas": [
-                {
-                    "nome": "Voz",
-                    "total": "69"
-                },
-                {
-                    "nome": "Dados",
-                    "total": "21"
-                },
-                {
-                    "nome": "SMS",
-                    "total": "29"
-                }
-            ],
-            "data": 201901,
-            "tipo": "comercial",
-            "equipe": 4
-        },
-        {
-            "usuarioID": 14,
-            "vendas": [
-                {
-                    "nome": "Voz",
-                    "total": "69"
-                },
-                {
-                    "nome": "Dados",
-                    "total": "21"
-                },
-                {
-                    "nome": "SMS",
-                    "total": "29"
-                }
-            ],
-            "data": 201902,
-            "tipo": "comercial",
-            "equipe": 4
-        },
-        {
-            "usuarioID": 15,
-            "vendas": [
-                {
-                    "nome": "Voz",
-                    "total": "17"
-                },
-                {
-                    "nome": "Dados",
-                    "total": "26"
-                },
-                {
-                    "nome": "SMS",
-                    "total": "72"
-                }
-            ],
-            "data": 201901,
-            "tipo": "comercial",
-            "equipe": 4
-        },
-        {
-            "usuarioID": 15,
-            "vendas": [
-                {
-                    "nome": "Voz",
-                    "total": "17"
-                },
-                {
-                    "nome": "Dados",
-                    "total": "26"
-                },
-                {
-                    "nome": "SMS",
-                    "total": "72"
-                }
-            ],
-            "data": 201902,
-            "tipo": "comercial",
-            "equipe": 4
-        },
-        {
-            "usuarioID": 16,
-            "vendas": [
-                {
-                    "nome": "Voz",
-                    "total": "72"
-                },
-                {
-                    "nome": "Dados",
-                    "total": "48"
-                },
-                {
-                    "nome": "SMS",
-                    "total": "60"
-                }
-            ],
-            "data": 201901,
-            "tipo": "comercial",
-            "equipe": 4
-        },
-        {
-            "usuarioID": 16,
-            "vendas": [
-                {
-                    "nome": "Voz",
-                    "total": "72"
-                },
-                {
-                    "nome": "Dados",
-                    "total": "48"
-                },
-                {
-                    "nome": "SMS",
-                    "total": "60"
-                }
-            ],
-            "data": 201902,
-            "tipo": "comercial",
-            "equipe": 4
+          "nome": "Inativos",
+          "total": 71
         }
-    ]
-},
-
+      ],
+      "data": 201901,
+      "tipo": "posVenda",
+      "equipe": 1
+    },
+    {
+      "usuarioID": 2,
+      "statusClientes": [
+        {
+          "nome": "Ativos",
+          "total": 31
+        },
+        {
+          "nome": "Pend. Ativação",
+          "total": 92
+        },
+        {
+          "nome": "Inativos",
+          "total": 77
+        }
+      ],
+      "data": 201902,
+      "tipo": "posVenda",
+      "equipe": 1
+    },
+    {
+      "usuarioID": 3,
+      "statusClientes": [
+        {
+          "nome": "Ativos",
+          "total": 76
+        },
+        {
+          "nome": "Pend. Ativação",
+          "total": 20
+        },
+        {
+          "nome": "Inativos",
+          "total": 4
+        }
+      ],
+      "data": 201901,
+      "tipo": "posVenda",
+      "equipe": 1
+    },
+    {
+      "usuarioID": 3,
+      "statusClientes": [
+        {
+          "nome": "Ativos",
+          "total": 97
+        },
+        {
+          "nome": "Pend. Ativação",
+          "total": 93
+        },
+        {
+          "nome": "Inativos",
+          "total": 83
+        }
+      ],
+      "data": 201902,
+      "tipo": "posVenda",
+      "equipe": 1
+    },
+    {
+      "usuarioID": 4,
+      "statusClientes": [
+        {
+          "nome": "Ativos",
+          "total": 45
+        },
+        {
+          "nome": "Pend. Ativação",
+          "total": 78
+        },
+        {
+          "nome": "Inativos",
+          "total": 20
+        }
+      ],
+      "data": 201901,
+      "tipo": "posVenda",
+      "equipe": 1
+    },
+    {
+      "usuarioID": 4,
+      "statusClientes": [
+        {
+          "nome": "Ativos",
+          "total": 11
+        },
+        {
+          "nome": "Pend. Ativação",
+          "total": 56
+        },
+        {
+          "nome": "Inativos",
+          "total": 87
+        }
+      ],
+      "data": 201902,
+      "tipo": "posVenda",
+      "equipe": 1
+    },
+    {
+      "usuarioID": 5,
+      "statusClientes": [
+        {
+          "nome": "Ativos",
+          "total": 47
+        },
+        {
+          "nome": "Pend. Ativação",
+          "total": 40
+        },
+        {
+          "nome": "Inativos",
+          "total": 79
+        }
+      ],
+      "data": 201901,
+      "tipo": "posVenda",
+      "equipe": 2
+    },
+    {
+      "usuarioID": 5,
+      "statusClientes": [
+        {
+          "nome": "Ativos",
+          "total": 13
+        },
+        {
+          "nome": "Pend. Ativação",
+          "total": 8
+        },
+        {
+          "nome": "Inativos",
+          "total": 68
+        }
+      ],
+      "data": 201902,
+      "tipo": "posVenda",
+      "equipe": 2
+    },
+    {
+      "usuarioID": 6,
+      "statusClientes": [
+        {
+          "nome": "Ativos",
+          "total": 5
+        },
+        {
+          "nome": "Pend. Ativação",
+          "total": 85
+        },
+        {
+          "nome": "Inativos",
+          "total": 45
+        }
+      ],
+      "data": 201901,
+      "tipo": "posVenda",
+      "equipe": 2
+    },
+    {
+      "usuarioID": 6,
+      "statusClientes": [
+        {
+          "nome": "Ativos",
+          "total": 52
+        },
+        {
+          "nome": "Pend. Ativação",
+          "total": 18
+        },
+        {
+          "nome": "Inativos",
+          "total": 7
+        }
+      ],
+      "data": 201902,
+      "tipo": "posVenda",
+      "equipe": 2
+    },
+    {
+      "usuarioID": 7,
+      "statusClientes": [
+        {
+          "nome": "Ativos",
+          "total": 17
+        },
+        {
+          "nome": "Pend. Ativação",
+          "total": 40
+        },
+        {
+          "nome": "Inativos",
+          "total": 0
+        }
+      ],
+      "data": 201901,
+      "tipo": "posVenda",
+      "equipe": 2
+    },
+    {
+      "usuarioID": 7,
+      "statusClientes": [
+        {
+          "nome": "Ativos",
+          "total": 10
+        },
+        {
+          "nome": "Pend. Ativação",
+          "total": 84
+        },
+        {
+          "nome": "Inativos",
+          "total": 21
+        }
+      ],
+      "data": 201902,
+      "tipo": "posVenda",
+      "equipe": 2
+    },
+    {
+      "usuarioID": 8,
+      "statusClientes": [
+        {
+          "nome": "Ativos",
+          "total": 80
+        },
+        {
+          "nome": "Pend. Ativação",
+          "total": 68
+        },
+        {
+          "nome": "Inativos",
+          "total": 68
+        }
+      ],
+      "data": 201901,
+      "tipo": "posVenda",
+      "equipe": 2
+    },
+    {
+      "usuarioID": 8,
+      "statusClientes": [
+        {
+          "nome": "Ativos",
+          "total": 45
+        },
+        {
+          "nome": "Pend. Ativação",
+          "total": 73
+        },
+        {
+          "nome": "Inativos",
+          "total": 90
+        }
+      ],
+      "data": 201902,
+      "tipo": "posVenda",
+      "equipe": 2
+    },
+    {
+      "usuarioID": 9,
+      "statusClientes": [
+        {
+          "nome": "Ativos",
+          "total": 32
+        },
+        {
+          "nome": "Pend. Ativação",
+          "total": 88
+        },
+        {
+          "nome": "Inativos",
+          "total": 0
+        }
+      ],
+      "data": 201901,
+      "tipo": "posVenda",
+      "equipe": 3
+    },
+    {
+      "usuarioID": 9,
+      "statusClientes": [
+        {
+          "nome": "Ativos",
+          "total": 16
+        },
+        {
+          "nome": "Pend. Ativação",
+          "total": 29
+        },
+        {
+          "nome": "Inativos",
+          "total": 77
+        }
+      ],
+      "data": 201902,
+      "tipo": "posVenda",
+      "equipe": 3
+    },
+    {
+      "usuarioID": 10,
+      "statusClientes": [
+        {
+          "nome": "Ativos",
+          "total": 25
+        },
+        {
+          "nome": "Pend. Ativação",
+          "total": 43
+        },
+        {
+          "nome": "Inativos",
+          "total": 64
+        }
+      ],
+      "data": 201901,
+      "tipo": "comercial",
+      "equipe": 3
+    },
+    {
+      "usuarioID": 10,
+      "statusClientes": [
+        {
+          "nome": "Ativos",
+          "total": 15
+        },
+        {
+          "nome": "Pend. Ativação",
+          "total": 46
+        },
+        {
+          "nome": "Inativos",
+          "total": 19
+        }
+      ],
+      "data": 201902,
+      "tipo": "comercial",
+      "equipe": 3
+    },
+    {
+      "usuarioID": 11,
+      "statusClientes": [
+        {
+          "nome": "Ativos",
+          "total": 92
+        },
+        {
+          "nome": "Pend. Ativação",
+          "total": 34
+        },
+        {
+          "nome": "Inativos",
+          "total": 23
+        }
+      ],
+      "data": 201901,
+      "tipo": "comercial",
+      "equipe": 3
+    },
+    {
+      "usuarioID": 11,
+      "statusClientes": [
+        {
+          "nome": "Ativos",
+          "total": 47
+        },
+        {
+          "nome": "Pend. Ativação",
+          "total": 37
+        },
+        {
+          "nome": "Inativos",
+          "total": 55
+        }
+      ],
+      "data": 201902,
+      "tipo": "comercial",
+      "equipe": 3
+    },
+    {
+      "usuarioID": 12,
+      "statusClientes": [
+        {
+          "nome": "Ativos",
+          "total": 34
+        },
+        {
+          "nome": "Pend. Ativação",
+          "total": 11
+        },
+        {
+          "nome": "Inativos",
+          "total": 49
+        }
+      ],
+      "data": 201901,
+      "tipo": "comercial",
+      "equipe": 3
+    },
+    {
+      "usuarioID": 12,
+      "statusClientes": [
+        {
+          "nome": "Ativos",
+          "total": 87
+        },
+        {
+          "nome": "Pend. Ativação",
+          "total": 71
+        },
+        {
+          "nome": "Inativos",
+          "total": 1
+        }
+      ],
+      "data": 201902,
+      "tipo": "comercial",
+      "equipe": 3
+    },
+    {
+      "usuarioID": 13,
+      "statusClientes": [
+        {
+          "nome": "Ativos",
+          "total": 78
+        },
+        {
+          "nome": "Pend. Ativação",
+          "total": 26
+        },
+        {
+          "nome": "Inativos",
+          "total": 79
+        }
+      ],
+      "data": 201901,
+      "tipo": "comercial",
+      "equipe": 4
+    },
+    {
+      "usuarioID": 13,
+      "statusClientes": [
+        {
+          "nome": "Ativos",
+          "total": 49
+        },
+        {
+          "nome": "Pend. Ativação",
+          "total": 68
+        },
+        {
+          "nome": "Inativos",
+          "total": 24
+        }
+      ],
+      "data": 201902,
+      "tipo": "comercial",
+      "equipe": 4
+    },
+    {
+      "usuarioID": 14,
+      "statusClientes": [
+        {
+          "nome": "Ativos",
+          "total": 63
+        },
+        {
+          "nome": "Pend. Ativação",
+          "total": 73
+        },
+        {
+          "nome": "Inativos",
+          "total": 87
+        }
+      ],
+      "data": 201901,
+      "tipo": "comercial",
+      "equipe": 4
+    },
+    {
+      "usuarioID": 14,
+      "statusClientes": [
+        {
+          "nome": "Ativos",
+          "total": 88
+        },
+        {
+          "nome": "Pend. Ativação",
+          "total": 37
+        },
+        {
+          "nome": "Inativos",
+          "total": 45
+        }
+      ],
+      "data": 201902,
+      "tipo": "comercial",
+      "equipe": 4
+    },
+    {
+      "usuarioID": 15,
+      "statusClientes": [
+        {
+          "nome": "Ativos",
+          "total": 78
+        },
+        {
+          "nome": "Pend. Ativação",
+          "total": 30
+        },
+        {
+          "nome": "Inativos",
+          "total": 72
+        }
+      ],
+      "data": 201901,
+      "tipo": "comercial",
+      "equipe": 4
+    },
+    {
+      "usuarioID": 15,
+      "statusClientes": [
+        {
+          "nome": "Ativos",
+          "total": 76
+        },
+        {
+          "nome": "Pend. Ativação",
+          "total": 71
+        },
+        {
+          "nome": "Inativos",
+          "total": 58
+        }
+      ],
+      "data": 201902,
+      "tipo": "comercial",
+      "equipe": 4
+    },
+    {
+      "usuarioID": 16,
+      "statusClientes": [
+        {
+          "nome": "Ativos",
+          "total": 19
+        },
+        {
+          "nome": "Pend. Ativação",
+          "total": 62
+        },
+        {
+          "nome": "Inativos",
+          "total": 86
+        }
+      ],
+      "data": 201901,
+      "tipo": "comercial",
+      "equipe": 4
+    },
+    {
+      "usuarioID": 16,
+      "statusClientes": [
+        {
+          "nome": "Ativos",
+          "total": 56
+        },
+        {
+          "nome": "Pend. Ativação",
+          "total": 90
+        },
+        {
+          "nome": "Inativos",
+          "total": 64
+        }
+      ],
+      "data": 201902,
+      "tipo": "comercial",
+      "equipe": 4
+    }
+  ],
+  "clientesCancelados": [
+    {
+      "usuarioID": 1,
+      "clientesCancelados": [
+        {
+          "nome": "Total",
+          "total": 2
+        },
+        {
+          "nome": "Parcial",
+          "total": 64
+        }
+      ],
+      "data": 201901,
+      "tipo": "posVenda",
+      "equipe": 1
+    },
+    {
+      "usuarioID": 1,
+      "clientesCancelados": [
+        {
+          "nome": "Total",
+          "total": 2
+        },
+        {
+          "nome": "Parcial",
+          "total": 64
+        }
+      ],
+      "data": 201902,
+      "tipo": "posVenda",
+      "equipe": 1
+    },
+    {
+      "usuarioID": 2,
+      "clientesCancelados": [
+        {
+          "nome": "Total",
+          "total": 77
+        },
+        {
+          "nome": "Parcial",
+          "total": 82
+        }
+      ],
+      "data": 201901,
+      "tipo": "posVenda",
+      "equipe": 1
+    },
+    {
+      "usuarioID": 2,
+      "clientesCancelados": [
+        {
+          "nome": "Total",
+          "total": 77
+        },
+        {
+          "nome": "Parcial",
+          "total": 82
+        }
+      ],
+      "data": 201902,
+      "tipo": "posVenda",
+      "equipe": 1
+    },
+    {
+      "usuarioID": 3,
+      "clientesCancelados": [
+        {
+          "nome": "Total",
+          "total": 55
+        },
+        {
+          "nome": "Parcial",
+          "total": 64
+        }
+      ],
+      "data": 201901,
+      "tipo": "posVenda",
+      "equipe": 1
+    },
+    {
+      "usuarioID": 3,
+      "clientesCancelados": [
+        {
+          "nome": "Total",
+          "total": 55
+        },
+        {
+          "nome": "Parcial",
+          "total": 64
+        }
+      ],
+      "data": 201902,
+      "tipo": "posVenda",
+      "equipe": 1
+    },
+    {
+      "usuarioID": 4,
+      "clientesCancelados": [
+        {
+          "nome": "Total",
+          "total": 88
+        },
+        {
+          "nome": "Parcial",
+          "total": 10
+        }
+      ],
+      "data": 201901,
+      "tipo": "posVenda",
+      "equipe": 1
+    },
+    {
+      "usuarioID": 4,
+      "clientesCancelados": [
+        {
+          "nome": "Total",
+          "total": 88
+        },
+        {
+          "nome": "Parcial",
+          "total": 10
+        }
+      ],
+      "data": 201902,
+      "tipo": "posVenda",
+      "equipe": 1
+    },
+    {
+      "usuarioID": 5,
+      "clientesCancelados": [
+        {
+          "nome": "Total",
+          "total": 0
+        },
+        {
+          "nome": "Parcial",
+          "total": 19
+        }
+      ],
+      "data": 201901,
+      "tipo": "posVenda",
+      "equipe": 2
+    },
+    {
+      "usuarioID": 5,
+      "clientesCancelados": [
+        {
+          "nome": "Total",
+          "total": 0
+        },
+        {
+          "nome": "Parcial",
+          "total": 19
+        }
+      ],
+      "data": 201902,
+      "tipo": "posVenda",
+      "equipe": 2
+    },
+    {
+      "usuarioID": 6,
+      "clientesCancelados": [
+        {
+          "nome": "Total",
+          "total": 83
+        },
+        {
+          "nome": "Parcial",
+          "total": 93
+        }
+      ],
+      "data": 201901,
+      "tipo": "posVenda",
+      "equipe": 2
+    },
+    {
+      "usuarioID": 6,
+      "clientesCancelados": [
+        {
+          "nome": "Total",
+          "total": 83
+        },
+        {
+          "nome": "Parcial",
+          "total": 93
+        }
+      ],
+      "data": 201902,
+      "tipo": "posVenda",
+      "equipe": 2
+    },
+    {
+      "usuarioID": 7,
+      "clientesCancelados": [
+        {
+          "nome": "Total",
+          "total": 85
+        },
+        {
+          "nome": "Parcial",
+          "total": 14
+        }
+      ],
+      "data": 201901,
+      "tipo": "posVenda",
+      "equipe": 2
+    },
+    {
+      "usuarioID": 7,
+      "clientesCancelados": [
+        {
+          "nome": "Total",
+          "total": 85
+        },
+        {
+          "nome": "Parcial",
+          "total": 14
+        }
+      ],
+      "data": 201902,
+      "tipo": "posVenda",
+      "equipe": 2
+    },
+    {
+      "usuarioID": 8,
+      "clientesCancelados": [
+        {
+          "nome": "Total",
+          "total": 58
+        },
+        {
+          "nome": "Parcial",
+          "total": 96
+        }
+      ],
+      "data": 201901,
+      "tipo": "posVenda",
+      "equipe": 2
+    },
+    {
+      "usuarioID": 8,
+      "clientesCancelados": [
+        {
+          "nome": "Total",
+          "total": 58
+        },
+        {
+          "nome": "Parcial",
+          "total": 96
+        }
+      ],
+      "data": 201902,
+      "tipo": "posVenda",
+      "equipe": 2
+    },
+    {
+      "usuarioID": 9,
+      "clientesCancelados": [
+        {
+          "nome": "Total",
+          "total": 46
+        },
+        {
+          "nome": "Parcial",
+          "total": 24
+        }
+      ],
+      "data": 201901,
+      "tipo": "posVenda",
+      "equipe": 3
+    },
+    {
+      "usuarioID": 9,
+      "clientesCancelados": [
+        {
+          "nome": "Total",
+          "total": 46
+        },
+        {
+          "nome": "Parcial",
+          "total": 24
+        }
+      ],
+      "data": 201902,
+      "tipo": "posVenda",
+      "equipe": 3
+    },
+    {
+      "usuarioID": 10,
+      "clientesCancelados": [
+        {
+          "nome": "Total",
+          "total": 69
+        },
+        {
+          "nome": "Parcial",
+          "total": 17
+        }
+      ],
+      "data": 201901,
+      "tipo": "posVenda",
+      "equipe": 3
+    },
+    {
+      "usuarioID": 10,
+      "clientesCancelados": [
+        {
+          "nome": "Total",
+          "total": 69
+        },
+        {
+          "nome": "Parcial",
+          "total": 17
+        }
+      ],
+      "data": 201902,
+      "tipo": "posVenda",
+      "equipe": 3
+    },
+    {
+      "usuarioID": 11,
+      "clientesCancelados": [
+        {
+          "nome": "Total",
+          "total": 86
+        },
+        {
+          "nome": "Parcial",
+          "total": 84
+        }
+      ],
+      "data": 201901,
+      "tipo": "posVenda",
+      "equipe": 3
+    },
+    {
+      "usuarioID": 11,
+      "clientesCancelados": [
+        {
+          "nome": "Total",
+          "total": 86
+        },
+        {
+          "nome": "Parcial",
+          "total": 84
+        }
+      ],
+      "data": 201902,
+      "tipo": "posVenda",
+      "equipe": 3
+    },
+    {
+      "usuarioID": 12,
+      "clientesCancelados": [
+        {
+          "nome": "Total",
+          "total": 12
+        },
+        {
+          "nome": "Parcial",
+          "total": 2
+        }
+      ],
+      "data": 201901,
+      "tipo": "posVenda",
+      "equipe": 3
+    },
+    {
+      "usuarioID": 12,
+      "clientesCancelados": [
+        {
+          "nome": "Total",
+          "total": 12
+        },
+        {
+          "nome": "Parcial",
+          "total": 2
+        }
+      ],
+      "data": 201902,
+      "tipo": "posVenda",
+      "equipe": 3
+    },
+    {
+      "usuarioID": 13,
+      "clientesCancelados": [
+        {
+          "nome": "Total",
+          "total": 53
+        },
+        {
+          "nome": "Parcial",
+          "total": 81
+        }
+      ],
+      "data": 201901,
+      "tipo": "posVenda",
+      "equipe": 4
+    },
+    {
+      "usuarioID": 13,
+      "clientesCancelados": [
+        {
+          "nome": "Total",
+          "total": 53
+        },
+        {
+          "nome": "Parcial",
+          "total": 81
+        }
+      ],
+      "data": 201902,
+      "tipo": "posVenda",
+      "equipe": 4
+    },
+    {
+      "usuarioID": 14,
+      "clientesCancelados": [
+        {
+          "nome": "Total",
+          "total": 98
+        },
+        {
+          "nome": "Parcial",
+          "total": 57
+        }
+      ],
+      "data": 201901,
+      "tipo": "posVenda",
+      "equipe": 4
+    },
+    {
+      "usuarioID": 14,
+      "clientesCancelados": [
+        {
+          "nome": "Total",
+          "total": 98
+        },
+        {
+          "nome": "Parcial",
+          "total": 57
+        }
+      ],
+      "data": 201902,
+      "tipo": "posVenda",
+      "equipe": 4
+    },
+    {
+      "usuarioID": 15,
+      "clientesCancelados": [
+        {
+          "nome": "Total",
+          "total": 86
+        },
+        {
+          "nome": "Parcial",
+          "total": 27
+        }
+      ],
+      "data": 201901,
+      "tipo": "posVenda",
+      "equipe": 4
+    },
+    {
+      "usuarioID": 15,
+      "clientesCancelados": [
+        {
+          "nome": "Total",
+          "total": 86
+        },
+        {
+          "nome": "Parcial",
+          "total": 27
+        }
+      ],
+      "data": 201902,
+      "tipo": "posVenda",
+      "equipe": 4
+    },
+    {
+      "usuarioID": 16,
+      "clientesCancelados": [
+        {
+          "nome": "Total",
+          "total": 70
+        },
+        {
+          "nome": "Parcial",
+          "total": 76
+        }
+      ],
+      "data": 201901,
+      "tipo": "posVenda",
+      "equipe": 4
+    },
+    {
+      "usuarioID": 16,
+      "clientesCancelados": [
+        {
+          "nome": "Total",
+          "total": 70
+        },
+        {
+          "nome": "Parcial",
+          "total": 76
+        }
+      ],
+      "data": 201902,
+      "tipo": "posVenda",
+      "equipe": 4
+    }
+  ],
+  "vendas": [
+    {
+      "usuarioID": 1,
+      "vendas": [
+        {
+          "nome": "Voz",
+          "total": "44"
+        },
+        {
+          "nome": "Dados",
+          "total": "10"
+        },
+        {
+          "nome": "SMS",
+          "total": "28"
+        }
+      ],
+      "data": 201901,
+      "tipo": "posVenda",
+      "equipe": 1
+    },
+    {
+      "usuarioID": 1,
+      "vendas": [
+        {
+          "nome": "Voz",
+          "total": "44"
+        },
+        {
+          "nome": "Dados",
+          "total": "10"
+        },
+        {
+          "nome": "SMS",
+          "total": "28"
+        }
+      ],
+      "data": 201902,
+      "tipo": "posVenda",
+      "equipe": 1
+    },
+    {
+      "usuarioID": 2,
+      "vendas": [
+        {
+          "nome": "Voz",
+          "total": "24"
+        },
+        {
+          "nome": "Dados",
+          "total": "61"
+        },
+        {
+          "nome": "SMS",
+          "total": "41"
+        }
+      ],
+      "data": 201901,
+      "tipo": "posVenda",
+      "equipe": 1
+    },
+    {
+      "usuarioID": 2,
+      "vendas": [
+        {
+          "nome": "Voz",
+          "total": "24"
+        },
+        {
+          "nome": "Dados",
+          "total": "61"
+        },
+        {
+          "nome": "SMS",
+          "total": "41"
+        }
+      ],
+      "data": 201902,
+      "tipo": "posVenda",
+      "equipe": 1
+    },
+    {
+      "usuarioID": 3,
+      "vendas": [
+        {
+          "nome": "Voz",
+          "total": "33"
+        },
+        {
+          "nome": "Dados",
+          "total": "39"
+        },
+        {
+          "nome": "SMS",
+          "total": "48"
+        }
+      ],
+      "data": 201901,
+      "tipo": "posVenda",
+      "equipe": 1
+    },
+    {
+      "usuarioID": 3,
+      "vendas": [
+        {
+          "nome": "Voz",
+          "total": "33"
+        },
+        {
+          "nome": "Dados",
+          "total": "39"
+        },
+        {
+          "nome": "SMS",
+          "total": "48"
+        }
+      ],
+      "data": 201902,
+      "tipo": "posVenda",
+      "equipe": 1
+    },
+    {
+      "usuarioID": 4,
+      "vendas": [
+        {
+          "nome": "Voz",
+          "total": "99"
+        },
+        {
+          "nome": "Dados",
+          "total": "50"
+        },
+        {
+          "nome": "SMS",
+          "total": "20"
+        }
+      ],
+      "data": 201901,
+      "tipo": "posVenda",
+      "equipe": 1
+    },
+    {
+      "usuarioID": 4,
+      "vendas": [
+        {
+          "nome": "Voz",
+          "total": "99"
+        },
+        {
+          "nome": "Dados",
+          "total": "50"
+        },
+        {
+          "nome": "SMS",
+          "total": "20"
+        }
+      ],
+      "data": 201902,
+      "tipo": "posVenda",
+      "equipe": 1
+    },
+    {
+      "usuarioID": 5,
+      "vendas": [
+        {
+          "nome": "Voz",
+          "total": "7"
+        },
+        {
+          "nome": "Dados",
+          "total": "3"
+        },
+        {
+          "nome": "SMS",
+          "total": "29"
+        }
+      ],
+      "data": 201901,
+      "tipo": "posVenda",
+      "equipe": 2
+    },
+    {
+      "usuarioID": 5,
+      "vendas": [
+        {
+          "nome": "Voz",
+          "total": "7"
+        },
+        {
+          "nome": "Dados",
+          "total": "3"
+        },
+        {
+          "nome": "SMS",
+          "total": "29"
+        }
+      ],
+      "data": 201902,
+      "tipo": "posVenda",
+      "equipe": 2
+    },
+    {
+      "usuarioID": 6,
+      "vendas": [
+        {
+          "nome": "Voz",
+          "total": "39"
+        },
+        {
+          "nome": "Dados",
+          "total": "67"
+        },
+        {
+          "nome": "SMS",
+          "total": "19"
+        }
+      ],
+      "data": 201901,
+      "tipo": "posVenda",
+      "equipe": 2
+    },
+    {
+      "usuarioID": 6,
+      "vendas": [
+        {
+          "nome": "Voz",
+          "total": "39"
+        },
+        {
+          "nome": "Dados",
+          "total": "67"
+        },
+        {
+          "nome": "SMS",
+          "total": "19"
+        }
+      ],
+      "data": 201902,
+      "tipo": "posVenda",
+      "equipe": 2
+    },
+    {
+      "usuarioID": 7,
+      "vendas": [
+        {
+          "nome": "Voz",
+          "total": "61"
+        },
+        {
+          "nome": "Dados",
+          "total": "96"
+        },
+        {
+          "nome": "SMS",
+          "total": "49"
+        }
+      ],
+      "data": 201901,
+      "tipo": "posVenda",
+      "equipe": 2
+    },
+    {
+      "usuarioID": 7,
+      "vendas": [
+        {
+          "nome": "Voz",
+          "total": "61"
+        },
+        {
+          "nome": "Dados",
+          "total": "96"
+        },
+        {
+          "nome": "SMS",
+          "total": "49"
+        }
+      ],
+      "data": 201902,
+      "tipo": "posVenda",
+      "equipe": 2
+    },
+    {
+      "usuarioID": 8,
+      "vendas": [
+        {
+          "nome": "Voz",
+          "total": "29"
+        },
+        {
+          "nome": "Dados",
+          "total": "13"
+        },
+        {
+          "nome": "SMS",
+          "total": "46"
+        }
+      ],
+      "data": 201901,
+      "tipo": "posVenda",
+      "equipe": 2
+    },
+    {
+      "usuarioID": 8,
+      "vendas": [
+        {
+          "nome": "Voz",
+          "total": "29"
+        },
+        {
+          "nome": "Dados",
+          "total": "13"
+        },
+        {
+          "nome": "SMS",
+          "total": "46"
+        }
+      ],
+      "data": 201902,
+      "tipo": "posVenda",
+      "equipe": 2
+    },
+    {
+      "usuarioID": 9,
+      "vendas": [
+        {
+          "nome": "Voz",
+          "total": "77"
+        },
+        {
+          "nome": "Dados",
+          "total": "32"
+        },
+        {
+          "nome": "SMS",
+          "total": "27"
+        }
+      ],
+      "data": 201901,
+      "tipo": "posVenda",
+      "equipe": 3
+    },
+    {
+      "usuarioID": 9,
+      "vendas": [
+        {
+          "nome": "Voz",
+          "total": "77"
+        },
+        {
+          "nome": "Dados",
+          "total": "32"
+        },
+        {
+          "nome": "SMS",
+          "total": "27"
+        }
+      ],
+      "data": 201902,
+      "tipo": "posVenda",
+      "equipe": 3
+    },
+    {
+      "usuarioID": 10,
+      "vendas": [
+        {
+          "nome": "Voz",
+          "total": "63"
+        },
+        {
+          "nome": "Dados",
+          "total": "24"
+        },
+        {
+          "nome": "SMS",
+          "total": "19"
+        }
+      ],
+      "data": 201901,
+      "tipo": "comercial",
+      "equipe": 3
+    },
+    {
+      "usuarioID": 10,
+      "vendas": [
+        {
+          "nome": "Voz",
+          "total": "63"
+        },
+        {
+          "nome": "Dados",
+          "total": "24"
+        },
+        {
+          "nome": "SMS",
+          "total": "19"
+        }
+      ],
+      "data": 201902,
+      "tipo": "comercial",
+      "equipe": 3
+    },
+    {
+      "usuarioID": 11,
+      "vendas": [
+        {
+          "nome": "Voz",
+          "total": "10"
+        },
+        {
+          "nome": "Dados",
+          "total": "78"
+        },
+        {
+          "nome": "SMS",
+          "total": "90"
+        }
+      ],
+      "data": 201901,
+      "tipo": "comercial",
+      "equipe": 3
+    },
+    {
+      "usuarioID": 11,
+      "vendas": [
+        {
+          "nome": "Voz",
+          "total": "10"
+        },
+        {
+          "nome": "Dados",
+          "total": "78"
+        },
+        {
+          "nome": "SMS",
+          "total": "90"
+        }
+      ],
+      "data": 201902,
+      "tipo": "comercial",
+      "equipe": 3
+    },
+    {
+      "usuarioID": 12,
+      "vendas": [
+        {
+          "nome": "Voz",
+          "total": "6"
+        },
+        {
+          "nome": "Dados",
+          "total": "62"
+        },
+        {
+          "nome": "SMS",
+          "total": "73"
+        }
+      ],
+      "data": 201901,
+      "tipo": "comercial",
+      "equipe": 3
+    },
+    {
+      "usuarioID": 12,
+      "vendas": [
+        {
+          "nome": "Voz",
+          "total": "6"
+        },
+        {
+          "nome": "Dados",
+          "total": "62"
+        },
+        {
+          "nome": "SMS",
+          "total": "73"
+        }
+      ],
+      "data": 201902,
+      "tipo": "comercial",
+      "equipe": 3
+    },
+    {
+      "usuarioID": 13,
+      "vendas": [
+        {
+          "nome": "Voz",
+          "total": "1"
+        },
+        {
+          "nome": "Dados",
+          "total": "43"
+        },
+        {
+          "nome": "SMS",
+          "total": "41"
+        }
+      ],
+      "data": 201901,
+      "tipo": "comercial",
+      "equipe": 4
+    },
+    {
+      "usuarioID": 13,
+      "vendas": [
+        {
+          "nome": "Voz",
+          "total": "1"
+        },
+        {
+          "nome": "Dados",
+          "total": "43"
+        },
+        {
+          "nome": "SMS",
+          "total": "41"
+        }
+      ],
+      "data": 201902,
+      "tipo": "comercial",
+      "equipe": 4
+    },
+    {
+      "usuarioID": 14,
+      "vendas": [
+        {
+          "nome": "Voz",
+          "total": "69"
+        },
+        {
+          "nome": "Dados",
+          "total": "21"
+        },
+        {
+          "nome": "SMS",
+          "total": "29"
+        }
+      ],
+      "data": 201901,
+      "tipo": "comercial",
+      "equipe": 4
+    },
+    {
+      "usuarioID": 14,
+      "vendas": [
+        {
+          "nome": "Voz",
+          "total": "69"
+        },
+        {
+          "nome": "Dados",
+          "total": "21"
+        },
+        {
+          "nome": "SMS",
+          "total": "29"
+        }
+      ],
+      "data": 201902,
+      "tipo": "comercial",
+      "equipe": 4
+    },
+    {
+      "usuarioID": 15,
+      "vendas": [
+        {
+          "nome": "Voz",
+          "total": "17"
+        },
+        {
+          "nome": "Dados",
+          "total": "26"
+        },
+        {
+          "nome": "SMS",
+          "total": "72"
+        }
+      ],
+      "data": 201901,
+      "tipo": "comercial",
+      "equipe": 4
+    },
+    {
+      "usuarioID": 15,
+      "vendas": [
+        {
+          "nome": "Voz",
+          "total": "17"
+        },
+        {
+          "nome": "Dados",
+          "total": "26"
+        },
+        {
+          "nome": "SMS",
+          "total": "72"
+        }
+      ],
+      "data": 201902,
+      "tipo": "comercial",
+      "equipe": 4
+    },
+    {
+      "usuarioID": 16,
+      "vendas": [
+        {
+          "nome": "Voz",
+          "total": "72"
+        },
+        {
+          "nome": "Dados",
+          "total": "48"
+        },
+        {
+          "nome": "SMS",
+          "total": "60"
+        }
+      ],
+      "data": 201901,
+      "tipo": "comercial",
+      "equipe": 4
+    },
+    {
+      "usuarioID": 16,
+      "vendas": [
+        {
+          "nome": "Voz",
+          "total": "72"
+        },
+        {
+          "nome": "Dados",
+          "total": "48"
+        },
+        {
+          "nome": "SMS",
+          "total": "60"
+        }
+      ],
+      "data": 201902,
+      "tipo": "comercial",
+      "equipe": 4
+    }
+  ],
   "profile": {
     "name": "Api-Vonex"
   }
