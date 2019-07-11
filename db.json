@@ -1405,6 +1405,10 @@
       "equipe": 4
     }
   ],
+  "segmento": [
+    { "usuarioID": 1, "segmento": [ { "nome": "Outros", "total": 50 }, { "nome": "Operadora", "total": 50 }, { "nome": "Serviços", "total": 50 }, { "nome": "Saúde", "total": 50 }, { "nome": "Inst. Ensino", "total": 50 }, { "nome": "Varejo", "total": 50 }, { "nome": "Inst. Financeira", "total": 50 }, { "nome": "CallCenter", "total": 50 }, { "nome": "Industria", "total": 50 } ], "data": 201901, "tipo": "posVenda", "equipe": 1 },
+    { "usuarioID": 1, "segmento": [ { "nome": "Outros", "total": 50 }, { "nome": "Operadora", "total": 50 }, { "nome": "Serviços", "total": 50 }, { "nome": "Saúde", "total": 50 }, { "nome": "Inst. Ensino", "total": 50 }, { "nome": "Varejo", "total": 50 }, { "nome": "Inst. Financeira", "total": 50 }, { "nome": "CallCenter", "total": 50 }, { "nome": "Industria", "total": 50 } ], "data": 201902, "tipo": "posVenda", "equipe": 1 }
+  ],
   "profile": {
     "name": "Api-Vonex"
   }
