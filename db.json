@@ -684,6 +684,726 @@
       "tipo": "posVenda",
       "equipe": 1
     }
+    {
+    "usuarioID": 2,
+    "classificacao": [
+        {
+            "nome": "ouro",
+            "total": 65
+        },
+        {
+            "nome": "prata",
+            "total": 12
+        },
+        {
+            "nome": "bronze",
+            "total": 65
+        },
+        {
+            "nome": "operadora",
+            "total": 32
+        }
+    ],
+    "data": 201901,
+    "tipo": "posVenda",
+    "equipe": 1
+},
+{
+    "usuarioID": 2,
+    "classificacao": [
+        {
+            "nome": "ouro",
+            "total": 34
+        },
+        {
+            "nome": "prata",
+            "total": 23
+        },
+        {
+            "nome": "bronze",
+            "total": 34
+        },
+        {
+            "nome": "operadora",
+            "total": 54
+        }
+    ],
+    "data": 201902,
+    "tipo": "posVenda",
+    "equipe": 1
+},
+{
+    "usuarioID": 3,
+    "classificacao": [
+        {
+            "nome": "ouro",
+            "total": 46
+        },
+        {
+            "nome": "prata",
+            "total": 13
+        },
+        {
+            "nome": "bronze",
+            "total": 75
+        },
+        {
+            "nome": "operadora",
+            "total": 98
+        }
+    ],
+    "data": 201901,
+    "tipo": "posVenda",
+    "equipe": 1
+},
+{
+    "usuarioID": 3,
+    "classificacao": [
+        {
+            "nome": "ouro",
+            "total": 74
+        },
+        {
+            "nome": "prata",
+            "total": 95
+        },
+        {
+            "nome": "bronze",
+            "total": 86
+        },
+        {
+            "nome": "operadora",
+            "total": 26
+        }
+    ],
+    "data": 201902,
+    "tipo": "posVenda",
+    "equipe": 1
+},
+{
+    "usuarioID": 4,
+    "classificacao": [
+        {
+            "nome": "ouro",
+            "total": 45
+        },
+        {
+            "nome": "prata",
+            "total": 46
+        },
+        {
+            "nome": "bronze",
+            "total": 33
+        },
+        {
+            "nome": "operadora",
+            "total": 64
+        }
+    ],
+    "data": 201901,
+    "tipo": "posVenda",
+    "equipe": 1
+},
+{
+    "usuarioID": 4,
+    "classificacao": [
+        {
+            "nome": "ouro",
+            "total": 49
+        },
+        {
+            "nome": "prata",
+            "total": 95
+        },
+        {
+            "nome": "bronze",
+            "total": 48
+        },
+        {
+            "nome": "operadora",
+            "total": 75
+        }
+    ],
+    "data": 201902,
+    "tipo": "posVenda",
+    "equipe": 1
+},
+{
+    "usuarioID": 5,
+    "classificacao": [
+        {
+            "nome": "ouro",
+            "total": 36
+        },
+        {
+            "nome": "prata",
+            "total": 56
+        },
+        {
+            "nome": "bronze",
+            "total": 23
+        },
+        {
+            "nome": "operadora",
+            "total": 02
+        }
+    ],
+    "data": 201901,
+    "tipo": "posVenda",
+    "equipe": 2
+},
+{
+    "usuarioID": 5,
+    "classificacao": [
+        {
+            "nome": "ouro",
+            "total": 94
+        },
+        {
+            "nome": "prata",
+            "total": 86
+        },
+        {
+            "nome": "bronze",
+            "total": 26
+        },
+        {
+            "nome": "operadora",
+            "total": 45
+        }
+    ],
+    "data": 201902,
+    "tipo": "posVenda",
+    "equipe": 2
+},
+{
+    "usuarioID": 6,
+    "classificacao": [
+        {
+            "nome": "ouro",
+            "total": 54
+        },
+        {
+            "nome": "prata",
+            "total": 41
+        },
+        {
+            "nome": "bronze",
+            "total": 65
+        },
+        {
+            "nome": "operadora",
+            "total": 85
+        }
+    ],
+    "data": 201901,
+    "tipo": "posVenda",
+    "equipe": 2
+},
+{
+    "usuarioID": 6,
+    "classificacao": [
+        {
+            "nome": "ouro",
+            "total": 36
+        },
+        {
+            "nome": "prata",
+            "total": 56
+        },
+        {
+            "nome": "bronze",
+            "total": 23
+        },
+        {
+            "nome": "operadora",
+            "total": 02
+        }
+    ],
+    "data": 201901,
+    "tipo": "posVenda",
+    "equipe": 2
+},
+{
+    "usuarioID": 7,
+    "classificacao": [
+        {
+            "nome": "ouro",
+            "total": 53
+        },
+        {
+            "nome": "prata",
+            "total": 34
+        },
+        {
+            "nome": "bronze",
+            "total": 23
+        },
+        {
+            "nome": "operadora",
+            "total": 65
+        }
+    ],
+    "data": 201902,
+    "tipo": "posVenda",
+    "equipe": 2
+},
+{
+    "usuarioID": 7,
+    "classificacao": [
+        {
+            "nome": "ouro",
+            "total": 65
+        },
+        {
+            "nome": "prata",
+            "total": 74
+        },
+        {
+            "nome": "bronze",
+            "total": 53
+        },
+        {
+            "nome": "operadora",
+            "total": 23
+        }
+    ],
+    "data": 201902,
+    "tipo": "posVenda",
+    "equipe": 2
+},
+{
+    "usuarioID": 8,
+    "classificacao": [
+        {
+            "nome": "ouro",
+            "total": 45
+        },
+        {
+            "nome": "prata",
+            "total": 43
+        },
+        {
+            "nome": "bronze",
+            "total": 76
+        },
+        {
+            "nome": "operadora",
+            "total": 76
+        }
+    ],
+    "data": 201901,
+    "tipo": "posVenda",
+    "equipe": 2
+},
+{
+    "usuarioID": 8,
+    "classificacao": [
+        {
+            "nome": "ouro",
+            "total": 23
+        },
+        {
+            "nome": "prata",
+            "total": 12
+        },
+        {
+            "nome": "bronze",
+            "total": 56
+        },
+        {
+            "nome": "operadora",
+            "total": 34
+        }
+    ],
+    "data": 201902,
+    "tipo": "posVenda",
+    "equipe": 2
+},
+{
+    "usuarioID": 9,
+    "classificacao": [
+        {
+            "nome": "ouro",
+            "total": 53
+        },
+        {
+            "nome": "prata",
+            "total": 34
+        },
+        {
+            "nome": "bronze",
+            "total": 76
+        },
+        {
+            "nome": "operadora",
+            "total": 14
+        }
+    ],
+    "data": 201901,
+    "tipo": "comercial",
+    "equipe": 3
+},
+{
+    "usuarioID": 9,
+    "classificacao": [
+        {
+            "nome": "ouro",
+            "total": 76
+        },
+        {
+            "nome": "prata",
+            "total": 56
+        },
+        {
+            "nome": "bronze",
+            "total": 45
+        },
+        {
+            "nome": "operadora",
+            "total": 58
+        }
+    ],
+    "data": 201902,
+    "tipo": "comercial",
+    "equipe": 3
+},
+{
+    "usuarioID": 10,
+    "classificacao": [
+        {
+            "nome": "ouro",
+            "total": 23
+        },
+        {
+            "nome": "prata",
+            "total": 64
+        },
+        {
+            "nome": "bronze",
+            "total": 76
+        },
+        {
+            "nome": "operadora",
+            "total": 14
+        }
+    ],
+    "data": 201901,
+    "tipo": "comercial",
+    "equipe": 3
+},
+{
+    "usuarioID": 10,
+    "classificacao": [
+        {
+            "nome": "ouro",
+            "total": 65
+        },
+        {
+            "nome": "prata",
+            "total": 32
+        },
+        {
+            "nome": "bronze",
+            "total": 45
+        },
+        {
+            "nome": "operadora",
+            "total": 58
+        }
+    ],
+    "data": 201902,
+    "tipo": "comercial",
+    "equipe": 3
+},
+{
+    "usuarioID": 11,
+    "classificacao": [
+        {
+            "nome": "ouro",
+            "total": 84
+        },
+        {
+            "nome": "prata",
+            "total": 89
+        },
+        {
+            "nome": "bronze",
+            "total": 74
+        },
+        {
+            "nome": "operadora",
+            "total": 94
+        }
+    ],
+    "data": 201901,
+    "tipo": "comercial",
+    "equipe": 3
+},
+{
+    "usuarioID": 11,
+    "classificacao": [
+        {
+            "nome": "ouro",
+            "total": 21
+        },
+        {
+            "nome": "prata",
+            "total": 75
+        },
+        {
+            "nome": "bronze",
+            "total": 16
+        },
+        {
+            "nome": "operadora",
+            "total": 35
+        }
+    ],
+    "data": 201902,
+    "tipo": "comercial",
+    "equipe": 3
+},
+{
+    "usuarioID": 12,
+    "classificacao": [
+        {
+            "nome": "ouro",
+            "total": 12
+        },
+        {
+            "nome": "prata",
+            "total": 54
+        },
+        {
+            "nome": "bronze",
+            "total": 14
+        },
+        {
+            "nome": "operadora",
+            "total": 65
+        }
+    ],
+    "data": 201901,
+    "tipo": "comercial",
+    "equipe": 3
+},
+{
+    "usuarioID": 12,
+    "classificacao": [
+        {
+            "nome": "ouro",
+            "total": 56
+        },
+        {
+            "nome": "prata",
+            "total": 42
+        },
+        {
+            "nome": "bronze",
+            "total": 32
+        },
+        {
+            "nome": "operadora",
+            "total": 52
+        }
+    ],
+    "data": 201902,
+    "tipo": "comercial",
+    "equipe": 3
+},
+{
+    "usuarioID": 13,
+    "classificacao": [
+        {
+            "nome": "ouro",
+            "total": 78
+        },
+        {
+            "nome": "prata",
+            "total": 66
+        },
+        {
+            "nome": "bronze",
+            "total": 25
+        },
+        {
+            "nome": "operadora",
+            "total": 84
+        }
+    ],
+    "data": 201901,
+    "tipo": "comercial",
+    "equipe": 4
+},
+{
+    "usuarioID": 13,
+    "classificacao": [
+        {
+            "nome": "ouro",
+            "total": 45
+        },
+        {
+            "nome": "prata",
+            "total": 22
+        },
+        {
+            "nome": "bronze",
+            "total": 53
+        },
+        {
+            "nome": "operadora",
+            "total": 48
+        }
+    ],
+    "data": 201902,
+    "tipo": "comercial",
+    "equipe": 4
+},
+{
+    "usuarioID": 14,
+    "classificacao": [
+        {
+            "nome": "ouro",
+            "total": 52
+        },
+        {
+            "nome": "prata",
+            "total": 46
+        },
+        {
+            "nome": "bronze",
+            "total": 73
+        },
+        {
+            "nome": "operadora",
+            "total": 19
+        }
+    ],
+    "data": 201901,
+    "tipo": "comercial",
+    "equipe": 4
+},
+{
+    "usuarioID": 14,
+    "classificacao": [
+        {
+            "nome": "ouro",
+            "total": 55
+        },
+        {
+            "nome": "prata",
+            "total": 88
+        },
+        {
+            "nome": "bronze",
+            "total": 43
+        },
+        {
+            "nome": "operadora",
+            "total": 91
+        }
+    ],
+    "data": 201902,
+    "tipo": "comercial",
+    "equipe": 4
+},
+{
+    "usuarioID": 15,
+    "classificacao": [
+        {
+            "nome": "ouro",
+            "total": 34
+        },
+        {
+            "nome": "prata",
+            "total": 17
+        },
+        {
+            "nome": "bronze",
+            "total": 42
+        },
+        {
+            "nome": "operadora",
+            "total": 16
+        }
+    ],
+    "data": 201901,
+    "tipo": "comercial",
+    "equipe": 4
+},
+{
+    "usuarioID": 15,
+    "classificacao": [
+        {
+            "nome": "ouro",
+            "total": 62
+        },
+        {
+            "nome": "prata",
+            "total": 11
+        },
+        {
+            "nome": "bronze",
+            "total": 71
+        },
+        {
+            "nome": "operadora",
+            "total": 63
+        }
+    ],
+    "data": 201902,
+    "tipo": "comercial",
+    "equipe": 4
+},
+{
+    "usuarioID": 16,
+    "classificacao": [
+        {
+            "nome": "ouro",
+            "total": 39
+        },
+        {
+            "nome": "prata",
+            "total": 93
+        },
+        {
+            "nome": "bronze",
+            "total": 30
+        },
+        {
+            "nome": "operadora",
+            "total": 40
+        }
+    ],
+    "data": 201901,
+    "tipo": "comercial",
+    "equipe": 4
+},
+{
+    "usuarioID": 16,
+    "classificacao": [
+        {
+            "nome": "ouro",
+            "total": 99
+        },
+        {
+            "nome": "prata",
+            "total": 67
+        },
+        {
+            "nome": "bronze",
+            "total": 03
+        },
+        {
+            "nome": "operadora",
+            "total": 70
+        }
+    ],
+    "data": 201902,
+    "tipo": "comercial",
+    "equipe": 4
+},
   ],
   "profile": {
     "name": "Api-Vonex"
