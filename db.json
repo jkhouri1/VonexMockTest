@@ -1405,7 +1405,6 @@
       "equipe": 4
     }
   ],
-{
     "segmento": [
         {
             "usuarioID": 1,
@@ -2815,8 +2814,7 @@
             "tipo": "comercial",
             "equipe": 4
         }
-    ]
-}
+    ],
   "profile": {
     "name": "Api-Vonex"
   }
