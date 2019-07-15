@@ -1,84 +1,86 @@
 {
   "equipeFlex": [
     {
-      "flex": {
-        "tipo": "posVenda",
-        "equipes": [
-          {
-            "nomeEquipe": "Equipe Amanda Cosme",
-            "usuarios": [
-              {
-                "id": 1,
-                "nome": "Amanda Cosme"
-              },
-              {
-                "id": 2,
-                "nome": "Renata Neto"
-              },
-              {
-                "id": 3,
-                "nome": "Luciana Dentello"
-              }
-            ]
-          },
-          {
-            "nomeEquipe": "Equipe Fernanda Thibes",
-            "usuarios": [
-              {
-                "id": 4,
-                "nome": "Fernanda Thibes"
-              },
-              {
-                "id": 5,
-                "nome": "Viviane Camara"
-              },
-              {
-                "id": 6,
-                "nome": "Ana Tamasa"
-              }
-            ]
-          },
-          {
-            "tipo": "comercial",
-            "equipes": [
-              {
-                "nomeEquipe": "Equipe Mari Medeiros",
-                "usuarios": [
-                  {
-                    "id": 7,
-                    "nome": "Mari Medeiros"
-                  },
-                  {
-                    "id": 8,
-                    "nome": "Francine Souza"
-                  },
-                  {
-                    "id": 9,
-                    "nome": "Sandra Ferreira"
-                  }
-                ]
-              },
-              {
-                "nomeEquipe": "Equipe Naira Nehme",
-                "usuarios": [
-                  {
-                    "id": 10,
-                    "nome": "Naira Nehme"
-                  },
-                  {
-                    "id": 11,
-                    "nome": "Poliana Alves"
-                  },
-                  {
-                    "id": 12,
-                    "nome": "Luciana Conti"
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      }
+      "flex": [
+        {
+          "tipo": "posVenda",
+          "equipes": [
+            {
+              "nomeEquipe": "Equipe Amanda Cosme",
+              "usuarios": [
+                {
+                  "id": 1,
+                  "nome": "Amanda Cosme"
+                },
+                {
+                  "id": 2,
+                  "nome": "Renata Neto"
+                },
+                {
+                  "id": 3,
+                  "nome": "Luciana Dentello"
+                }
+              ]
+            },
+            {
+              "nomeEquipe": "Equipe Fernanda Thibes",
+              "usuarios": [
+                {
+                  "id": 4,
+                  "nome": "Fernanda Thibes"
+                },
+                {
+                  "id": 5,
+                  "nome": "Viviane Camara"
+                },
+                {
+                  "id": 6,
+                  "nome": "Ana Tamasa"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "comercial",
+          "equipes": [
+            {
+              "nomeEquipe": "Equipe Mari Medeiros",
+              "usuarios": [
+                {
+                  "id": 7,
+                  "nome": "Mari Medeiros"
+                },
+                {
+                  "id": 8,
+                  "nome": "Francine Souza"
+                },
+                {
+                  "id": 9,
+                  "nome": "Sandra Ferreira"
+                }
+              ]
+            },
+            {
+              "nomeEquipe": "Equipe Naira Nehme",
+              "usuarios": [
+                {
+                  "id": 10,
+                  "nome": "Naira Nehme"
+                },
+                {
+                  "id": 11,
+                  "nome": "Poliana Alves"
+                },
+                {
+                  "id": 12,
+                  "nome": "Luciana Conti"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "profile": {
